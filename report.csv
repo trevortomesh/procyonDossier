@@ -772,6 +772,7 @@ Ingemar,Gurnett,630-21-2303,Male,Sector 25,45,2018-03-12,Account Coordinator,ALI
 Tisha,Losty,546-67-1199,Female,Sector 25,52,2018-03-13,Dental Hygienist,ALIVE,NA,FALSE,Other,NA,D19,FALSE,Lee
 Augusto,Moodey,355-25-7759,Male,Sector 25,81,2018-03-13,Safety Technician III,ALIVE,NA,FALSE,Catholic,NA,A40,FALSE,Smith
 Glendon,Vescovo,850-32-8824,Male,Sector 25,70,2018-03-13,Computer Systems Analyst II,ALIVE,NA,FALSE,Other,NA,C35,FALSE,Smith
+DeVoulier,Lila,NA,Female,Sector 26,12,2018-03-04,NA,ALIVE,NA,FALSE,NA,NA,A7,FALSE,White
 Brod,Aarons,439-98-5691,Male,Sector 26,68,2018-03-06,Nurse Practicioner,DECEASED,2018-03-07,FALSE,Jewish,NA,D45,FALSE,Lee
 Clemente,Glyssanne,321-72-6653,Male,Sector 26,83,2018-03-06,Executive Secretary,ALIVE,NA,FALSE,Catholic,CHCKN,A25,FALSE,Ouyuki
 Gerome,Willbraham,875-92-0099,Male,Sector 26,8,2018-03-07,NA,ALIVE,NA,FALSE,Catholic,CHCKN,C33,TRUE,White
@@ -786,7 +787,7 @@ Karena,Dowrey,422-56-2053,Female,Sector 26,67,2018-03-08,Staff Scientist,ALIVE,N
 Nealson,Blazeby,523-06-6660,Male,Sector 26,88,2018-03-08,Accountant IV,ALIVE,NA,FALSE,Jewish,NA,D20,FALSE,White
 Xaviera,Frampton,367-61-4041,Female,Sector 26,19,2018-03-08,Office Assistant I,DECEASED,2018-03-11,FALSE,Protestant,NA,A3,FALSE,White
 Marylin,Heinke,480-90-8226,Female,Sector 26,6,2018-03-08,NA,ALIVE,NA,FALSE,Protestant,VEG,C9,TRUE,Sanders
-Moises,Heskey,791-72-6881,Male,Sector 26,0,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Muslim,NA,A14,TRUE,Lee
+Moises,Heskey,NA,Male,Sector 26,0,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Muslim,NA,A14,TRUE,Lee
 Sidnee,Ballaam,833-61-4218,Male,Sector 26,35,2018-03-08,General Manager,ALIVE,NA,FALSE,Catholic,NA,D12,FALSE,Sanders
 Trixy,Woosnam,434-50-0954,Female,Sector 26,13,2018-03-08,NA,DECEASED,2018-03-08,TRUE,Other,NA,D50,TRUE,Pan
 Lila,Dunmuir,423-74-4075,Female,Sector 26,89,2018-03-08,VP Marketing,DECEASED,2018-03-09,FALSE,Catholic,VEG,B22,FALSE,Pan
