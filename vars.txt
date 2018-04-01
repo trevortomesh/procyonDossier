@@ -1,0 +1,19 @@
+# ===================================================
+# VARIABLE DESCRIPTIONS:
+# First Name
+# Last Name
+# SIN               Social Insurance Number
+# Gender
+# Sector            Neighbourhood of Origin
+# Age
+# Profession
+# Status            Dead or alive?
+# DOD               Date of Death
+# Donor?            Is an organ donor?
+# Chaplin Service   What chaplin service requested?
+# Meal Pref
+# ROOM              Hospital Room Number
+# DNR?              Do not resucitate?
+# Attnd. Phys.      Attending physician
+#
+# =====================================================

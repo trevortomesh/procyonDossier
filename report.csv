@@ -1,0 +1,1001 @@
+First Name,Last Name,SIN,Gender,Sector,Age ,Admission,Profession,Status,DOD,Donor?,Chaplin Service,Meal Pref,ROOM,DNR?,Attnd. Phys.
+Fee,Wandrack,771-44-7931,Male,Sector 10,82,2018-03-08,Desktop Support Technician,DECEASED,2018-03-09,FALSE,Catholic,NA,B19,FALSE,Sanders
+Lilli,Verdey,181-37-8189,Female,Sector 10,85,2018-03-09,Nurse Practicioner,ALIVE,NA,FALSE,Jewish,VEG,A5,FALSE,Pan
+Gerald,Batchan,490-29-6212,Male,Sector 10,74,2018-03-09,Speech Pathologist,ALIVE,NA,FALSE,Protestant,VEG,A34,FALSE,Sanders
+Jedidiah,Paal,168-37-9585,Male,Sector 10,48,2018-03-09,Account Representative IV,DECEASED,2018-03-10,FALSE,Jewish,VEG,A4,FALSE,White
+Filmore,Dannett,558-19-4871,Male,Sector 10,14,2018-03-09,NA,ALIVE,NA,TRUE,Catholic,CHCKN,A15,TRUE,White
+Norene,Camilletti,253-56-8165,Female,Sector 10,60,2018-03-09,Account Executive,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,C9,FALSE,Sanders
+Basilio,Tertre,186-01-7328,Male,Sector 10,63,2018-03-09,Professor,ALIVE,NA,FALSE,NA,NA,D8,FALSE,Pan
+Edik,Kirrens,423-34-1746,Male,Sector 10,50,2018-03-09,Analyst Programmer,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,A23,FALSE,Ouyuki
+Vladamir,Corran,689-99-7017,Male,Sector 10,18,2018-03-09,NA,ALIVE,NA,TRUE,Other,VEG,B37,TRUE,Ouyuki
+Nils,Titherington,731-72-8036,Male,Sector 10,93,2018-03-09,Librarian,ALIVE,NA,FALSE,Catholic,VEG,D15,FALSE,White
+Gwenette,Goadsby,545-41-6136,Female,Sector 10,53,2018-03-10,Research Assistant III,ALIVE,NA,FALSE,Jewish,NA,D8,FALSE,Smith
+Maire,Tabb,647-81-3042,Female,Sector 10,55,2018-03-10,Actuary,DECEASED,2018-03-13,FALSE,Protestant,VEG,C39,FALSE,Lee
+Dominik,Delahunty,722-93-2637,Male,Sector 10,58,2018-03-10,Administrative Officer,DECEASED,2018-03-10,FALSE,NA,CHCKN,A13,FALSE,Lee
+Clerc,Widdowes,310-18-1055,Male,Sector 10,58,2018-03-10,VP Accounting,ALIVE,NA,FALSE,Muslim,CHCKN,C37,FALSE,Smith
+Lynett,Hatch,786-05-6361,Female,Sector 10,71,2018-03-10,Physical Therapy Assistant,ALIVE,NA,FALSE,Protestant,CHCKN,A26,FALSE,Pan
+Somerset,Shallow,683-29-3020,Male,Sector 10,74,2018-03-10,Human Resources Assistant IV,ALIVE,NA,FALSE,Other,CHCKN,C21,FALSE,Smith
+Aliza,Hasney,670-62-1739,Female,Sector 10,60,2018-03-10,Food Chemist,DECEASED,2018-03-10,FALSE,Catholic,NA,B49,FALSE,White
+Dirk,Broschke,313-65-0047,Male,Sector 10,9,2018-03-10,NA,DECEASED,2018-03-10,FALSE,NA,NA,D31,TRUE,Sanders
+Gayla,Lorman,120-90-2038,Female,Sector 10,90,2018-03-10,Payment Adjustment Coordinator,ALIVE,NA,FALSE,Muslim,VEG,D48,FALSE,Ouyuki
+Marlo,Dearlove,211-99-9160,Female,Sector 10,35,2018-03-10,Recruiting Manager,ALIVE,NA,FALSE,NA,CHCKN,D3,FALSE,White
+Kelcy,Hailey,600-73-5520,Female,Sector 10,1,2018-03-10,NA,DECEASED,2018-03-11,FALSE,Protestant,VEG,C22,FALSE,Ouyuki
+Killy,Beszant,758-20-0837,Male,Sector 10,41,2018-03-11,Account Representative III,ALIVE,NA,FALSE,Catholic,CHCKN,B30,FALSE,White
+Charmain,Harnes,761-86-1829,Female,Sector 10,87,2018-03-11,VP Marketing,ALIVE,NA,FALSE,NA,NA,A44,FALSE,Lee
+Katinka,Labrom,117-13-9249,Female,Sector 10,36,2018-03-11,Senior Sales Associate,ALIVE,NA,FALSE,Other,CHCKN,D20,FALSE,White
+Billy,Worling,507-07-4532,Female,Sector 10,72,2018-03-11,Quality Engineer,DECEASED,2018-03-11,FALSE,Protestant,VEG,C15,FALSE,Lee
+Vernice,Arrigucci,278-68-4470,Female,Sector 10,92,2018-03-11,Environmental Specialist,DECEASED,2018-03-12,FALSE,Other,NA,C20,FALSE,Pan
+Livvie,Colgrave,884-16-8703,Female,Sector 10,13,2018-03-11,NA,ALIVE,NA,FALSE,Catholic,VEG,A21,TRUE,Lee
+Di,Batchelour,639-20-7097,Female,Sector 10,32,2018-03-11,Statistician I,DECEASED,2018-03-11,FALSE,Jewish,NA,D30,FALSE,Smith
+Olivier,Coleford,516-07-3406,Male,Sector 10,91,2018-03-11,Quality Control Specialist,ALIVE,NA,FALSE,Catholic,CHCKN,D48,FALSE,Lee
+Dorolice,Grossier,655-13-9489,Female,Sector 11,9,2018-03-08,NA,DECEASED,2018-03-11,TRUE,Protestant,CHCKN,D40,TRUE,Smith
+Salmon,Bawcock,401-61-4039,Male,Sector 11,70,2018-03-09,Nurse Practicioner,DECEASED,2018-03-12,FALSE,Muslim,VEG,B30,FALSE,Smith
+Elise,Sturman,193-61-8552,Female,Sector 11,59,2018-03-09,Occupational Therapist,DECEASED,2018-03-10,FALSE,Catholic,VEG,B25,FALSE,Pan
+Wallis,Caulket,358-15-8148,Male,Sector 11,53,2018-03-09,Analog Circuit Design manager,ALIVE,NA,FALSE,Catholic,VEG,A16,FALSE,Ouyuki
+Lorianne,Juan,423-69-0227,Female,Sector 11,80,2018-03-09,Web Designer III,ALIVE,NA,FALSE,Catholic,NA,C8,FALSE,White
+Vasilis,Breckenridge,820-37-0876,Male,Sector 11,34,2018-03-09,Biostatistician II,DECEASED,2018-03-10,FALSE,Other,VEG,D7,FALSE,White
+Harri,Beckham,680-12-1525,Female,Sector 11,38,2018-03-09,Programmer II,DECEASED,2018-03-10,FALSE,Jewish,VEG,B17,FALSE,Ouyuki
+Sim,Plumtree,508-03-2709,Male,Sector 11,64,2018-03-09,Cost Accountant,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,B39,FALSE,Sanders
+Ruddie,Flegg,606-46-6675,Male,Sector 11,88,2018-03-09,Food Chemist,ALIVE,NA,FALSE,Catholic,CHCKN,A33,FALSE,Smith
+Janine,Roskrug,334-06-9222,Female,Sector 11,11,2018-03-09,NA,ALIVE,NA,FALSE,NA,NA,C47,TRUE,Sanders
+Alexandros,Birmingham,487-54-1568,Male,Sector 11,61,2018-03-10,Financial Analyst,DECEASED,2018-03-13,FALSE,Muslim,VEG,B42,FALSE,Pan
+Dorette,Northbridge,743-25-5761,Female,Sector 11,64,2018-03-10,Assistant Media Planner,DECEASED,2018-03-13,FALSE,Catholic,VEG,B39,FALSE,Lee
+Malva,Feary,746-57-4350,Female,Sector 11,82,2018-03-10,Information Systems Manager,DECEASED,2018-03-10,FALSE,NA,CHCKN,C50,FALSE,Ouyuki
+Beau,Benettelli,322-46-0417,Male,Sector 11,7,2018-03-10,NA,DECEASED,2018-03-10,FALSE,Protestant,CHCKN,D39,FALSE,Sanders
+Nert,Allibone,897-62-0143,Female,Sector 11,50,2018-03-10,Programmer Analyst II,DECEASED,2018-03-12,FALSE,Jewish,NA,D5,FALSE,Lee
+Amalle,Elbourn,837-04-8484,Female,Sector 11,9,2018-03-10,NA,ALIVE,NA,TRUE,Catholic,CHCKN,D6,FALSE,Ouyuki
+Ardra,Trusse,141-44-4964,Female,Sector 11,48,2018-03-10,Software Test Engineer II,ALIVE,NA,FALSE,Jewish,NA,B44,FALSE,Lee
+Dorthy,Stalman,652-26-5701,Female,Sector 11,76,2018-03-10,Payment Adjustment Coordinator,DECEASED,2018-03-10,FALSE,Protestant,CHCKN,B31,FALSE,Pan
+Shirline,Carnachen,795-78-9164,Female,Sector 11,78,2018-03-10,Help Desk Technician,ALIVE,NA,FALSE,Protestant,VEG,A50,FALSE,Lee
+Silvana,Mostin,858-84-1973,Female,Sector 11,35,2018-03-10,Nurse Practicioner,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,A29,FALSE,Pan
+Blake,Healks,160-10-3568,Female,Sector 11,34,2018-03-10,Developer IV,ALIVE,NA,FALSE,Muslim,CHCKN,B22,FALSE,Pan
+Elmer,Gittoes,862-24-5961,Male,Sector 11,1,2018-03-11,NA,DECEASED,2018-03-12,FALSE,Catholic,VEG,B27,FALSE,White
+Sigrid,Beswetherick,827-87-0204,Female,Sector 11,39,2018-03-11,Senior Developer,DECEASED,2018-03-12,FALSE,NA,VEG,B37,FALSE,Ouyuki
+Prinz,Brickham,591-77-6484,Male,Sector 11,67,2018-03-11,Operator,ALIVE,NA,FALSE,NA,CHCKN,D28,FALSE,Smith
+Gerhard,Cloughton,405-62-6376,Male,Sector 11,93,2018-03-11,Health Coach I,ALIVE,NA,FALSE,NA,VEG,A5,FALSE,Lee
+Sampson,Roome,483-34-6701,Male,Sector 11,79,2018-03-11,Civil Engineer,DECEASED,2018-03-14,FALSE,Jewish,NA,B9,FALSE,Pan
+Dede,Spenclay,440-33-4684,Female,Sector 11,18,2018-03-11,NA,ALIVE,NA,TRUE,Protestant,CHCKN,D32,FALSE,Pan
+Kirstyn,Pomfrett,615-18-5970,Female,Sector 11,87,2018-03-11,Editor,DECEASED,2018-03-11,FALSE,NA,VEG,A43,FALSE,White
+Pattin,Tomaszynski,596-23-8612,Male,Sector 11,52,2018-03-11,Paralegal,DECEASED,2018-03-14,FALSE,Catholic,VEG,D19,FALSE,Ouyuki
+Emlyn,Tackell,344-66-7104,Male,Sector 11,85,2018-03-11,Analog Circuit Design manager,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,D28,FALSE,Pan
+Quintilla,Grice,774-36-0942,Female,Sector 11,77,2018-03-11,Cost Accountant,DECEASED,2018-03-14,FALSE,Other,NA,D41,FALSE,Pan
+Blaire,Scarrott,334-56-9988,Female,Sector 11,43,2018-03-11,Librarian,ALIVE,NA,FALSE,NA,CHCKN,B46,FALSE,Pan
+Viviyan,Jerrams,475-89-8170,Female,Sector 11,51,2018-03-11,Chief Design Engineer,DECEASED,2018-03-11,FALSE,NA,CHCKN,B5,FALSE,Sanders
+Tani,Romei,416-68-3249,Female,Sector 11,73,2018-03-11,Technical Writer,DECEASED,2018-03-14,FALSE,Protestant,NA,C42,FALSE,White
+Goddard,Bain,893-34-1676,Male,Sector 11,58,2018-03-11,Structural Engineer,ALIVE,NA,FALSE,NA,CHCKN,D47,FALSE,Smith
+Delbert,Braz,772-31-3606,Male,Sector 11,13,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,A34,TRUE,Smith
+Cassandry,Bretton,112-28-1352,Female,Sector 11,55,2018-03-11,Tax Accountant,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,B24,FALSE,Pan
+Conrad,Ghelerdini,555-94-9858,Male,Sector 11,88,2018-03-11,Marketing Manager,ALIVE,NA,FALSE,Muslim,CHCKN,D13,FALSE,Sanders
+Wally,Jellyman,810-58-3875,Female,Sector 11,10,2018-03-11,NA,ALIVE,NA,TRUE,Catholic,VEG,D10,TRUE,Lee
+Dieter,Reeday,281-62-1478,Male,Sector 11,76,2018-03-11,Accounting Assistant III,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,B9,FALSE,Ouyuki
+Way,Stowers,119-18-3809,Male,Sector 11,65,2018-03-11,Mechanical Systems Engineer,ALIVE,NA,FALSE,NA,VEG,C28,FALSE,Lee
+Jaine,Niche,263-39-2309,Female,Sector 11,17,2018-03-11,NA,ALIVE,NA,TRUE,Catholic,CHCKN,B28,FALSE,White
+Freddie,Liverseege,649-04-3178,Male,Sector 11,78,2018-03-11,Accountant II,DECEASED,2018-03-14,FALSE,Other,NA,D9,FALSE,Pan
+Yoko,Ryrie,255-71-2030,Female,Sector 11,37,2018-03-11,Quality Control Specialist,ALIVE,NA,FALSE,Other,VEG,A28,FALSE,Sanders
+Lamar,Willett,698-13-4262,Male,Sector 11,37,2018-03-12,Research Assistant II,DECEASED,2018-03-12,FALSE,Jewish,NA,D38,FALSE,Pan
+Addie,Hallick,113-59-4127,Female,Sector 11,44,2018-03-12,Engineer II,ALIVE,NA,FALSE,NA,CHCKN,D39,FALSE,Smith
+Corey,Ephgrave,415-24-4315,Female,Sector 11,58,2018-03-12,Information Systems Manager,ALIVE,NA,FALSE,Other,VEG,D14,FALSE,Sanders
+Vinita,Pember,182-68-7384,Female,Sector 11,19,2018-03-12,Senior Sales Associate,ALIVE,NA,FALSE,NA,NA,C19,FALSE,Lee
+Leah,MacGiffin,417-39-6262,Female,Sector 12,89,2018-03-08,Recruiter,DECEASED,2018-03-09,FALSE,Jewish,NA,A27,FALSE,White
+Rosene,Tuffin,820-52-2640,Female,Sector 12,7,2018-03-09,NA,ALIVE,NA,TRUE,Catholic,NA,B1,TRUE,Smith
+Catlee,d'Arcy,838-41-2290,Female,Sector 12,62,2018-03-09,Marketing Assistant,DECEASED,2018-03-12,FALSE,Protestant,NA,D28,FALSE,Ouyuki
+Vladimir,Charles,804-22-5876,Male,Sector 12,90,2018-03-09,Web Developer II,DECEASED,2018-03-09,FALSE,Jewish,VEG,B37,FALSE,Lee
+Town,Bowfin,139-48-7490,Male,Sector 12,96,2018-03-09,Registered Nurse,DECEASED,2018-03-09,FALSE,Protestant,CHCKN,D18,FALSE,Smith
+Donnie,Trouel,180-66-2979,Female,Sector 12,31,2018-03-09,Assistant Media Planner,ALIVE,NA,FALSE,Protestant,VEG,C31,FALSE,Sanders
+Erhard,Haysman,583-33-6275,Male,Sector 12,35,2018-03-09,Structural Engineer,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,B6,FALSE,Ouyuki
+Parsifal,Axtens,857-41-8821,Male,Sector 12,25,2018-03-09,Research Assistant II,DECEASED,2018-03-09,FALSE,Jewish,NA,D48,FALSE,Smith
+Basilio,Riggulsford,679-41-5729,Male,Sector 12,92,2018-03-09,Human Resources Assistant I,DECEASED,2018-03-09,FALSE,Catholic,VEG,B27,FALSE,Sanders
+Marillin,Danne,218-88-2052,Female,Sector 12,6,2018-03-09,NA,ALIVE,NA,FALSE,Other,VEG,A22,TRUE,Ouyuki
+Tye,Wadge,469-43-8288,Male,Sector 12,66,2018-03-10,Assistant Manager,ALIVE,NA,FALSE,NA,VEG,B15,FALSE,Lee
+Herby,De Nisco,123-05-0562,Male,Sector 12,46,2018-03-10,Structural Engineer,ALIVE,NA,FALSE,NA,VEG,C9,FALSE,White
+Ceciley,Shelf,683-18-1487,Female,Sector 12,75,2018-03-10,Director of Sales,ALIVE,NA,FALSE,Jewish,VEG,C15,FALSE,Lee
+Kassi,Yellowlea,278-37-0363,Female,Sector 12,12,2018-03-10,NA,DECEASED,2018-03-10,FALSE,NA,CHCKN,B8,FALSE,Ouyuki
+Nixie,Aireton,130-22-6557,Female,Sector 12,76,2018-03-10,Budget/Accounting Analyst III,DECEASED,2018-03-10,FALSE,Protestant,VEG,C3,FALSE,Ouyuki
+Bartolemo,Watkinson,763-15-7661,Male,Sector 12,37,2018-03-10,Account Executive,ALIVE,NA,FALSE,Muslim,VEG,B13,FALSE,Smith
+Amalle,Mardoll,236-86-1248,Female,Sector 12,4,2018-03-10,NA,ALIVE,NA,TRUE,Muslim,CHCKN,C29,TRUE,White
+Sacha,Hanney,347-57-2967,Female,Sector 12,8,2018-03-10,NA,ALIVE,NA,TRUE,Muslim,CHCKN,D19,FALSE,Sanders
+Kameko,Kellard,572-19-6101,Female,Sector 12,7,2018-03-10,NA,DECEASED,2018-03-11,TRUE,Catholic,CHCKN,B13,TRUE,Smith
+Devonne,Horribine,339-41-2459,Female,Sector 12,21,2018-03-10,Media Manager III,ALIVE,NA,FALSE,Protestant,CHCKN,C26,FALSE,White
+Roberto,Chaney,695-31-1740,Male,Sector 12,8,2018-03-10,NA,DECEASED,2018-03-12,FALSE,Muslim,CHCKN,A19,TRUE,Lee
+Wylie,Andreotti,714-09-6129,Male,Sector 12,5,2018-03-11,NA,ALIVE,NA,TRUE,Protestant,NA,B4,TRUE,Ouyuki
+Kaia,Jeal,214-41-9568,Female,Sector 12,69,2018-03-11,Director of Sales,ALIVE,NA,FALSE,Muslim,CHCKN,B14,FALSE,Ouyuki
+Lyndsay,Aspray,803-99-8068,Female,Sector 12,62,2018-03-11,Director of Sales,DECEASED,2018-03-12,FALSE,NA,NA,B48,FALSE,Sanders
+Bren,Southern,715-40-1459,Male,Sector 12,94,2018-03-11,Staff Scientist,ALIVE,NA,FALSE,Other,VEG,D33,FALSE,Ouyuki
+Olympie,McPeake,106-06-6260,Female,Sector 12,18,2018-03-11,NA,DECEASED,2018-03-13,FALSE,Jewish,NA,B3,TRUE,White
+Gery,Cowdray,450-81-2487,Male,Sector 12,9,2018-03-11,NA,ALIVE,NA,TRUE,Other,CHCKN,B47,FALSE,Smith
+Chick,Jopke,395-45-9920,Male,Sector 12,59,2018-03-11,Systems Administrator IV,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,B35,FALSE,Smith
+Newton,Swinburn,457-64-0252,Male,Sector 12,18,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Other,NA,C49,TRUE,White
+Jude,Adshead,752-23-1103,Male,Sector 12,70,2018-03-11,Technical Writer,ALIVE,NA,FALSE,Jewish,CHCKN,A22,FALSE,Ouyuki
+Ogdon,La Wille,387-61-1741,Male,Sector 12,80,2018-03-11,Computer Systems Analyst I,DECEASED,2018-03-13,FALSE,NA,NA,B49,FALSE,Lee
+Husain,Ledwith,509-66-9678,Male,Sector 12,67,2018-03-11,Administrative Assistant IV,DECEASED,2018-03-14,FALSE,Jewish,CHCKN,A27,FALSE,White
+Brantley,Pettiford,484-87-9262,Male,Sector 12,5,2018-03-11,NA,DECEASED,2018-03-11,FALSE,NA,NA,D39,TRUE,Pan
+Louis,Vyse,256-75-4246,Male,Sector 12,84,2018-03-11,Accountant IV,ALIVE,NA,FALSE,NA,NA,D45,FALSE,Sanders
+Ole,Powter,159-84-5408,Male,Sector 12,17,2018-03-11,NA,DECEASED,2018-03-14,FALSE,Other,CHCKN,C26,TRUE,Pan
+Susana,Blethyn,886-72-1905,Female,Sector 12,26,2018-03-11,Statistician I,DECEASED,2018-03-11,FALSE,Muslim,NA,C33,FALSE,Pan
+Kathlin,Rengger,676-64-7210,Female,Sector 12,41,2018-03-11,Software Consultant,ALIVE,NA,FALSE,Catholic,VEG,D24,FALSE,Lee
+Miles,Pimmocke,852-71-3233,Male,Sector 15,59,2018-03-08,Sales Associate,ALIVE,NA,FALSE,Jewish,VEG,A47,FALSE,Lee
+Richardo,Salthouse,409-65-1992,Male,Sector 15,15,2018-03-08,NA,ALIVE,NA,FALSE,Other,CHCKN,C9,FALSE,Ouyuki
+Talbert,Sproston,476-75-0213,Male,Sector 15,22,2018-03-09,Safety Technician II,ALIVE,NA,FALSE,Muslim,NA,B25,FALSE,Lee
+Reinaldo,Obbard,608-94-7096,Male,Sector 15,21,2018-03-09,Software Test Engineer II,ALIVE,NA,FALSE,NA,CHCKN,C46,FALSE,Pan
+Trixi,Meekin,153-84-9829,Female,Sector 15,87,2018-03-09,Budget/Accounting Analyst IV,ALIVE,NA,FALSE,Muslim,CHCKN,A11,FALSE,Ouyuki
+Angelia,Britney,387-27-9960,Female,Sector 15,4,2018-03-09,NA,ALIVE,NA,TRUE,Catholic,VEG,B2,FALSE,White
+Teirtza,Jakel,176-43-4490,Female,Sector 15,80,2018-03-09,Health Coach I,ALIVE,NA,FALSE,Protestant,CHCKN,D29,FALSE,Ouyuki
+Stevie,Alesbrook,419-01-2351,Male,Sector 15,42,2018-03-09,Senior Editor,ALIVE,NA,FALSE,Jewish,NA,B1,FALSE,Sanders
+Elisha,Turri,618-05-5622,Male,Sector 15,65,2018-03-10,Computer Systems Analyst II,DECEASED,2018-03-11,FALSE,Muslim,NA,D1,FALSE,White
+Stanleigh,Ruston,357-63-3068,Male,Sector 15,58,2018-03-10,Pharmacist,DECEASED,2018-03-10,FALSE,Other,CHCKN,B21,FALSE,Pan
+Fanchon,Stenson,426-17-8328,Female,Sector 15,16,2018-03-10,NA,DECEASED,2018-03-10,TRUE,Catholic,NA,D23,TRUE,Smith
+Rodrick,Warrilow,478-66-2523,Male,Sector 15,78,2018-03-10,Media Manager I,ALIVE,NA,FALSE,Protestant,NA,D4,FALSE,Smith
+Christie,Menpes,251-44-9952,Male,Sector 15,0,2018-03-10,NA,DECEASED,2018-03-10,FALSE,Jewish,VEG,A11,TRUE,White
+Harry,Lambdin,649-76-7163,Male,Sector 15,10,2018-03-10,NA,DECEASED,2018-03-12,FALSE,NA,VEG,B16,TRUE,Sanders
+Kerby,Rycraft,698-88-5001,Male,Sector 15,46,2018-03-10,Analyst Programmer,ALIVE,NA,FALSE,Protestant,NA,A26,FALSE,Ouyuki
+Dominica,Gimson,804-15-9902,Female,Sector 15,30,2018-03-11,Senior Editor,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,C12,FALSE,White
+Hartley,Shanklin,381-84-3980,Male,Sector 15,42,2018-03-11,Staff Accountant II,DECEASED,2018-03-12,FALSE,NA,CHCKN,D15,FALSE,Smith
+Libby,Collinette,204-92-7174,Female,Sector 15,88,2018-03-11,VP Accounting,DECEASED,2018-03-11,FALSE,Other,NA,A33,FALSE,Ouyuki
+Elfreda,Darrach,563-72-4774,Female,Sector 15,83,2018-03-11,VP Marketing,ALIVE,NA,FALSE,Jewish,CHCKN,A31,FALSE,Ouyuki
+Putnam,Borrowman,446-66-9389,Male,Sector 15,59,2018-03-11,Registered Nurse,ALIVE,NA,FALSE,Jewish,VEG,C11,FALSE,Smith
+Arty,Pfeifer,697-54-4533,Male,Sector 15,83,2018-03-11,Assistant Professor,ALIVE,NA,FALSE,Other,NA,A50,FALSE,Pan
+Luci,Laise,195-47-2300,Female,Sector 15,81,2018-03-11,Nurse Practicioner,ALIVE,NA,FALSE,Jewish,VEG,D46,FALSE,Sanders
+Tammara,Chansonne,362-31-0159,Female,Sector 15,65,2018-03-11,Web Designer I,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,D12,FALSE,Ouyuki
+Caz,Handy,751-97-7069,Male,Sector 15,74,2018-03-11,Junior Executive,DECEASED,2018-03-11,FALSE,Muslim,NA,C21,FALSE,Pan
+Gran,Alekseev,508-73-5571,Male,Sector 15,33,2018-03-11,Systems Administrator II,ALIVE,NA,FALSE,Jewish,CHCKN,B47,FALSE,Smith
+Cassie,Lafflina,586-32-6842,Female,Sector 15,19,2018-03-11,Media Manager III,ALIVE,NA,FALSE,Catholic,CHCKN,A31,FALSE,Sanders
+Etheline,Featherstonehaugh,223-83-1959,Female,Sector 15,85,2018-03-11,Sales Representative,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,B6,FALSE,Lee
+Carmel,Fowden,353-69-7283,Female,Sector 15,73,2018-03-12,Social Worker,DECEASED,2018-03-13,FALSE,Catholic,VEG,B21,FALSE,Smith
+Yance,Geillier,448-66-7517,Male,Sector 15,59,2018-03-12,Programmer Analyst II,ALIVE,NA,FALSE,Muslim,NA,D37,FALSE,Ouyuki
+Lukas,Romei,612-55-5981,Male,Sector 15,80,2018-03-12,Chemical Engineer,ALIVE,NA,FALSE,Other,VEG,C18,FALSE,Ouyuki
+Dora,Dundridge,808-11-3011,Female,Sector 18,1,2018-03-08,NA,DECEASED,2018-03-08,TRUE,Muslim,CHCKN,C46,TRUE,Lee
+Virgina,Dziwisz,396-37-9678,Female,Sector 18,84,2018-03-08,Occupational Therapist,ALIVE,NA,FALSE,Protestant,NA,B19,FALSE,Smith
+Karna,Charville,354-97-5105,Female,Sector 18,71,2018-03-09,Help Desk Technician,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,B38,FALSE,Ouyuki
+Deonne,Dell Casa,199-59-7714,Female,Sector 18,81,2018-03-09,Nurse Practicioner,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,B40,FALSE,White
+Neala,Muehle,764-43-7850,Female,Sector 18,94,2018-03-09,Speech Pathologist,DECEASED,2018-03-09,FALSE,NA,CHCKN,B15,FALSE,Smith
+Purcell,Bullivent,359-81-2239,Male,Sector 18,20,2018-03-09,Nuclear Power Engineer,ALIVE,NA,FALSE,Other,CHCKN,A45,FALSE,White
+Arleta,Spofforth,356-39-1476,Female,Sector 18,81,2018-03-09,Media Manager II,DECEASED,2018-03-11,FALSE,Other,CHCKN,B42,FALSE,Smith
+Vincents,Cicchinelli,722-76-9721,Male,Sector 18,72,2018-03-09,Health Coach IV,ALIVE,NA,FALSE,Protestant,VEG,C8,FALSE,Ouyuki
+Gayle,Brunroth,522-40-0741,Male,Sector 18,47,2018-03-10,Project Manager,ALIVE,NA,FALSE,Jewish,CHCKN,C34,FALSE,Sanders
+Micheline,Sedge,292-05-4820,Female,Sector 18,87,2018-03-10,Junior Executive,DECEASED,2018-03-10,FALSE,NA,NA,C40,FALSE,Lee
+Lari,Parsell,635-44-7086,Female,Sector 18,65,2018-03-10,Chief Design Engineer,ALIVE,NA,FALSE,Protestant,CHCKN,B49,FALSE,Pan
+Minor,Rickman,200-87-0573,Male,Sector 18,79,2018-03-10,Sales Associate,ALIVE,NA,FALSE,Catholic,NA,D5,FALSE,Ouyuki
+Preston,Brager,824-78-0354,Male,Sector 18,14,2018-03-10,NA,ALIVE,NA,FALSE,Jewish,CHCKN,C44,FALSE,Ouyuki
+Cathleen,Anetts,351-57-8801,Female,Sector 18,5,2018-03-10,NA,DECEASED,2018-03-10,FALSE,Protestant,NA,C31,FALSE,Ouyuki
+Yolande,Orans,217-70-2160,Female,Sector 18,82,2018-03-10,Senior Editor,ALIVE,NA,FALSE,Other,NA,D14,FALSE,Lee
+Gianni,McNevin,724-44-1352,Male,Sector 18,45,2018-03-11,Marketing Manager,DECEASED,2018-03-12,FALSE,Protestant,CHCKN,B45,FALSE,White
+Lon,Colchett,894-89-1910,Male,Sector 18,38,2018-03-11,VP Marketing,DECEASED,2018-03-14,FALSE,Jewish,CHCKN,B17,FALSE,Ouyuki
+Bili,Chong,390-28-2380,Female,Sector 18,6,2018-03-11,NA,DECEASED,2018-03-11,TRUE,NA,NA,D42,FALSE,Lee
+Zebedee,Willgoose,311-49-0949,Male,Sector 18,14,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Muslim,NA,D23,TRUE,Ouyuki
+Lee,Dielhenn,724-21-5443,Male,Sector 18,19,2018-03-11,Web Designer IV,DECEASED,2018-03-14,FALSE,Muslim,CHCKN,A6,FALSE,Ouyuki
+Cleavland,Furness,772-09-7866,Male,Sector 18,43,2018-03-11,Internal Auditor,DECEASED,2018-03-11,FALSE,Jewish,NA,D33,FALSE,White
+Sophia,Tukesby,569-28-7188,Female,Sector 18,32,2018-03-11,Legal Assistant,DECEASED,2018-03-11,FALSE,Catholic,NA,C25,FALSE,White
+Dodi,Ruilton,783-32-7704,Female,Sector 18,54,2018-03-11,Health Coach IV,ALIVE,NA,FALSE,Muslim,VEG,C25,FALSE,White
+Kev,Mabbett,212-90-2139,Male,Sector 18,45,2018-03-11,Software Consultant,ALIVE,NA,FALSE,NA,NA,D44,FALSE,Smith
+Cinda,Ivakhin,768-70-9885,Female,Sector 18,1,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Protestant,CHCKN,B44,TRUE,White
+Arny,Astin,728-07-9827,Male,Sector 18,22,2018-03-11,Business Systems Development Analyst,DECEASED,2018-03-13,FALSE,Jewish,NA,A19,FALSE,Lee
+Katina,Dowey,812-94-3536,Female,Sector 18,95,2018-03-11,Paralegal,DECEASED,2018-03-11,FALSE,Jewish,VEG,A11,FALSE,Lee
+Arv,Pinsent,465-95-7887,Male,Sector 18,20,2018-03-12,Assistant Professor,DECEASED,2018-03-14,FALSE,Jewish,VEG,A7,FALSE,Smith
+Ninnette,Mathey,556-60-2004,Female,Sector 18,54,2018-03-12,VP Quality Control,ALIVE,NA,FALSE,Muslim,VEG,B3,FALSE,White
+Ash,Hatherley,236-32-7907,Male,Sector 18,53,2018-03-12,Quality Control Specialist,DECEASED,2018-03-12,FALSE,Muslim,NA,A39,FALSE,Smith
+Audi,McDonagh,828-47-2121,Female,Sector 18,5,2018-03-12,NA,DECEASED,2018-03-12,FALSE,Protestant,CHCKN,A48,FALSE,Ouyuki
+Daune,Koppelmann,450-56-9768,Female,Sector 18,93,2018-03-12,General Manager,DECEASED,2018-03-15,FALSE,Protestant,CHCKN,A19,FALSE,Pan
+Rozina,Ponde,877-53-1590,Female,Sector 18,0,2018-03-12,NA,DECEASED,2018-03-12,FALSE,Other,VEG,C10,TRUE,Lee
+Donn,Houseley,838-55-2142,Male,Sector 19,42,2018-03-09,Human Resources Manager,DECEASED,2018-03-10,FALSE,Other,VEG,C7,FALSE,Sanders
+Bryanty,Englishby,878-88-4301,Male,Sector 19,68,2018-03-09,Actuary,DECEASED,2018-03-09,FALSE,Muslim,NA,C47,FALSE,Sanders
+Ronnie,McGarry,302-76-4068,Male,Sector 19,48,2018-03-09,VP Accounting,ALIVE,NA,FALSE,Other,VEG,D17,FALSE,Pan
+Nathanael,Stocking,323-06-3362,Male,Sector 19,87,2018-03-09,Paralegal,ALIVE,NA,FALSE,Protestant,NA,D39,FALSE,Lee
+Tailor,D'Andrea,265-23-5306,Male,Sector 19,54,2018-03-09,Human Resources Assistant III,ALIVE,NA,FALSE,Muslim,CHCKN,C27,FALSE,White
+Hart,Cudiff,276-65-4520,Male,Sector 19,65,2018-03-09,Human Resources Assistant IV,DECEASED,2018-03-10,FALSE,Catholic,NA,A25,FALSE,Pan
+Penny,Basford,782-09-8275,Male,Sector 19,88,2018-03-10,Staff Scientist,ALIVE,NA,FALSE,Muslim,VEG,B21,FALSE,Ouyuki
+Sigismundo,Jaffray,786-45-6106,Male,Sector 19,73,2018-03-10,Software Consultant,ALIVE,NA,FALSE,Jewish,VEG,A27,FALSE,Sanders
+Wendye,Cruxton,833-87-4318,Female,Sector 19,71,2018-03-10,Account Executive,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,D23,FALSE,Smith
+Michel,Gehring,803-43-1649,Female,Sector 19,53,2018-03-10,Administrative Assistant I,ALIVE,NA,FALSE,NA,VEG,B37,FALSE,White
+Donny,Camilleri,697-69-4034,Male,Sector 19,37,2018-03-10,Quality Control Specialist,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,B13,FALSE,Lee
+Danielle,Poag,862-37-0933,Female,Sector 19,1,2018-03-10,NA,DECEASED,2018-03-11,FALSE,NA,CHCKN,B23,FALSE,Smith
+Holt,Seage,350-04-6751,Male,Sector 19,46,2018-03-10,Research Associate,DECEASED,2018-03-13,FALSE,Catholic,VEG,B48,FALSE,Sanders
+Rheba,O'Carney,246-61-6030,Female,Sector 19,2,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Catholic,NA,B41,TRUE,Smith
+Amberly,Bleasdale,782-53-8667,Female,Sector 19,87,2018-03-11,Research Assistant II,ALIVE,NA,FALSE,Protestant,CHCKN,C29,FALSE,Smith
+Erek,Togher,382-73-7706,Male,Sector 19,49,2018-03-11,Quality Engineer,ALIVE,NA,FALSE,Protestant,CHCKN,B24,FALSE,Lee
+Blanche,Terran,457-90-4314,Female,Sector 19,96,2018-03-11,Assistant Manager,ALIVE,NA,FALSE,Muslim,VEG,A31,FALSE,Ouyuki
+Marieann,Fearey,333-40-4190,Female,Sector 19,19,2018-03-11,Cost Accountant,DECEASED,2018-03-11,FALSE,Jewish,VEG,B11,FALSE,Ouyuki
+Lura,McClaughlin,869-90-7974,Female,Sector 19,7,2018-03-11,NA,DECEASED,2018-03-12,FALSE,NA,NA,B50,TRUE,Ouyuki
+Pamella,Rennock,893-47-9432,Female,Sector 19,69,2018-03-11,Programmer Analyst III,ALIVE,NA,FALSE,Protestant,CHCKN,B36,FALSE,Sanders
+Otto,McShee,557-76-1766,Male,Sector 19,20,2018-03-11,Data Coordiator,ALIVE,NA,FALSE,NA,NA,A28,FALSE,White
+Arnoldo,Ebertz,650-73-7912,Male,Sector 19,64,2018-03-11,Engineer II,ALIVE,NA,FALSE,Muslim,NA,B20,FALSE,Ouyuki
+Carlin,Schooley,756-34-0815,Male,Sector 19,48,2018-03-11,Engineer I,ALIVE,NA,FALSE,Other,VEG,D27,FALSE,Ouyuki
+Staci,Eliez,622-35-7570,Female,Sector 19,11,2018-03-11,NA,ALIVE,NA,FALSE,Other,NA,B16,FALSE,White
+Melina,Bonelle,476-88-9802,Female,Sector 19,56,2018-03-11,Legal Assistant,ALIVE,NA,FALSE,NA,NA,A44,FALSE,Lee
+Thebault,Whisby,178-76-5298,Male,Sector 19,38,2018-03-11,Structural Analysis Engineer,ALIVE,NA,FALSE,Muslim,CHCKN,A40,FALSE,Lee
+Ray,Ives,881-21-9087,Female,Sector 19,3,2018-03-11,NA,DECEASED,2018-03-13,TRUE,Muslim,VEG,B46,TRUE,White
+Madelina,Carlo,290-31-2389,Female,Sector 19,33,2018-03-11,Statistician III,DECEASED,2018-03-11,FALSE,Other,VEG,B22,FALSE,Ouyuki
+Jacqueline,Bickford,425-38-2403,Female,Sector 19,28,2018-03-11,Professor,DECEASED,2018-03-12,FALSE,Protestant,NA,D19,FALSE,Lee
+Roxane,Deroche,114-43-1495,Female,Sector 19,4,2018-03-11,NA,ALIVE,NA,FALSE,Catholic,NA,A26,TRUE,Sanders
+Willamina,Sokill,751-33-7386,Female,Sector 19,94,2018-03-11,Engineer III,ALIVE,NA,FALSE,Other,NA,A36,FALSE,Smith
+Helena,Cloake,489-12-1085,Female,Sector 19,42,2018-03-11,Civil Engineer,DECEASED,2018-03-13,FALSE,Protestant,CHCKN,A19,FALSE,Pan
+Hyacinthe,Bowering,683-76-9069,Female,Sector 19,74,2018-03-11,Engineer IV,DECEASED,2018-03-12,FALSE,Protestant,NA,D36,FALSE,Lee
+Nert,Cromb,770-50-3997,Female,Sector 19,33,2018-03-11,Dental Hygienist,DECEASED,2018-03-11,FALSE,NA,NA,A33,FALSE,Smith
+Alejoa,Way,331-53-1349,Male,Sector 19,54,2018-03-11,Nurse,ALIVE,NA,FALSE,Muslim,NA,C44,FALSE,Smith
+Lucian,Densumbe,234-89-3874,Male,Sector 19,59,2018-03-11,Analyst Programmer,ALIVE,NA,FALSE,Jewish,CHCKN,C49,FALSE,Lee
+Rhea,Mosdill,106-47-1416,Female,Sector 19,62,2018-03-11,Social Worker,DECEASED,2018-03-14,FALSE,Protestant,VEG,D8,FALSE,Lee
+Irvine,Jerwood,153-46-5655,Male,Sector 19,35,2018-03-11,Engineer III,DECEASED,2018-03-13,FALSE,Muslim,VEG,D28,FALSE,Pan
+Jamesy,McQuillin,757-09-4759,Male,Sector 19,50,2018-03-11,Software Engineer II,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,B49,FALSE,Ouyuki
+Dunn,Pack,267-94-1049,Male,Sector 19,22,2018-03-11,Account Representative IV,ALIVE,NA,FALSE,Jewish,NA,B23,FALSE,Pan
+Wilmar,Corradino,531-90-6158,Male,Sector 19,46,2018-03-11,Data Coordiator,DECEASED,2018-03-14,FALSE,Jewish,NA,A45,FALSE,Pan
+Papagena,Soames,242-87-4879,Female,Sector 19,10,2018-03-11,NA,DECEASED,2018-03-11,FALSE,NA,NA,D50,TRUE,White
+Marita,Merigeau,439-66-4156,Female,Sector 19,14,2018-03-11,NA,DECEASED,2018-03-13,FALSE,Muslim,NA,B4,TRUE,Lee
+Joli,Cuttle,859-21-1940,Female,Sector 19,89,2018-03-11,Account Coordinator,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,A26,FALSE,Ouyuki
+Jake,Millsom,794-54-4413,Male,Sector 19,72,2018-03-11,Tax Accountant,ALIVE,NA,FALSE,Other,VEG,C37,FALSE,Pan
+Gabriell,Potts,133-08-4202,Female,Sector 19,83,2018-03-11,Quality Engineer,ALIVE,NA,FALSE,Catholic,VEG,A29,FALSE,Ouyuki
+Bing,Ert,138-36-5939,Male,Sector 19,16,2018-03-11,NA,DECEASED,2018-03-14,TRUE,Catholic,CHCKN,C43,TRUE,White
+Shayla,Budik,479-62-1467,Female,Sector 19,73,2018-03-11,Analog Circuit Design manager,ALIVE,NA,FALSE,NA,NA,B24,FALSE,White
+Kelvin,Blackater,648-47-0713,Male,Sector 19,69,2018-03-11,Librarian,DECEASED,2018-03-12,FALSE,NA,VEG,B12,FALSE,Smith
+Zolly,Rawlence,330-13-6609,Male,Sector 19,64,2018-03-11,Account Executive,DECEASED,2018-03-14,FALSE,Muslim,VEG,D9,FALSE,Lee
+Timothee,Gifford,233-25-3583,Male,Sector 19,36,2018-03-11,Executive Secretary,ALIVE,NA,FALSE,NA,VEG,D17,FALSE,Pan
+Bobbe,Mawford,740-61-6781,Female,Sector 19,78,2018-03-11,VP Marketing,DECEASED,2018-03-11,FALSE,Jewish,VEG,C6,FALSE,Pan
+Natale,Winram,758-06-4738,Male,Sector 19,9,2018-03-11,NA,ALIVE,NA,FALSE,Other,VEG,B15,TRUE,White
+Abbie,Licari,662-40-0369,Female,Sector 19,13,2018-03-11,NA,ALIVE,NA,FALSE,Other,VEG,D37,FALSE,Ouyuki
+Chiquita,Jancey,238-34-2122,Female,Sector 19,62,2018-03-11,Account Coordinator,DECEASED,2018-03-14,FALSE,NA,CHCKN,A32,FALSE,Sanders
+Ofella,O'Concannon,264-68-7651,Female,Sector 19,48,2018-03-11,Assistant Professor,DECEASED,2018-03-11,FALSE,Jewish,NA,C4,FALSE,Smith
+Annnora,Atack,877-87-5015,Female,Sector 19,95,2018-03-11,Geologist III,ALIVE,NA,FALSE,Catholic,VEG,C15,FALSE,Sanders
+Robbin,Nunan,192-12-4920,Female,Sector 19,90,2018-03-11,VP Product Management,ALIVE,NA,FALSE,Muslim,VEG,D7,FALSE,Pan
+Nevsa,Junkison,281-90-8964,Female,Sector 19,64,2018-03-11,Accountant IV,ALIVE,NA,FALSE,Catholic,NA,A2,FALSE,White
+Darb,Rampage,776-06-7016,Male,Sector 19,39,2018-03-11,Data Coordiator,ALIVE,NA,FALSE,NA,NA,B31,FALSE,Smith
+Grannie,Ianelli,780-36-8025,Male,Sector 19,64,2018-03-11,Human Resources Manager,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,B10,FALSE,Sanders
+Kaitlyn,Coats,657-16-9578,Female,Sector 19,93,2018-03-11,Biostatistician IV,ALIVE,NA,FALSE,Jewish,NA,B4,FALSE,Lee
+Lulita,Osant,871-25-6885,Female,Sector 19,87,2018-03-11,Occupational Therapist,DECEASED,2018-03-12,FALSE,Other,NA,C27,FALSE,Ouyuki
+Shepherd,Roddell,704-67-7553,Male,Sector 19,63,2018-03-11,Senior Developer,ALIVE,NA,FALSE,Protestant,VEG,C38,FALSE,Ouyuki
+Reta,O' Brian,546-38-1131,Female,Sector 19,44,2018-03-11,Analog Circuit Design manager,DECEASED,2018-03-11,FALSE,Protestant,VEG,D31,FALSE,Smith
+Zorana,Friar,313-01-7645,Female,Sector 19,75,2018-03-11,Legal Assistant,ALIVE,NA,FALSE,NA,CHCKN,C8,FALSE,Smith
+Erinn,Dyche,850-70-3056,Female,Sector 19,52,2018-03-11,Quality Engineer,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,C15,FALSE,Ouyuki
+Jourdain,Biaggetti,159-02-7879,Male,Sector 19,80,2018-03-12,Software Test Engineer IV,ALIVE,NA,FALSE,NA,CHCKN,A3,FALSE,Smith
+Ludwig,Winley,894-86-6565,Male,Sector 19,23,2018-03-12,Analog Circuit Design manager,ALIVE,NA,FALSE,Jewish,CHCKN,B27,FALSE,Smith
+Basile,Davenall,673-07-9786,Male,Sector 19,13,2018-03-12,NA,DECEASED,2018-03-14,TRUE,Catholic,NA,A7,TRUE,Ouyuki
+Beatrix,Menzies,456-98-4577,Female,Sector 20,64,2018-03-10,Graphic Designer,DECEASED,2018-03-11,FALSE,Protestant,VEG,C43,FALSE,Smith
+Almeda,Barr,670-20-0685,Female,Sector 20,1,2018-03-10,NA,DECEASED,2018-03-10,TRUE,Muslim,VEG,B35,TRUE,Lee
+Flem,Finder,168-74-5661,Male,Sector 20,4,2018-03-10,NA,ALIVE,NA,TRUE,NA,CHCKN,D37,TRUE,Smith
+Boycey,Pordall,647-43-4781,Male,Sector 20,27,2018-03-10,Cost Accountant,ALIVE,NA,FALSE,NA,NA,A42,FALSE,Lee
+Odo,Sweatland,617-03-7731,Male,Sector 20,57,2018-03-10,Structural Analysis Engineer,ALIVE,NA,FALSE,Protestant,VEG,D6,FALSE,Ouyuki
+Lorraine,Rollett,701-55-8883,Female,Sector 20,63,2018-03-10,Paralegal,DECEASED,2018-03-10,FALSE,Muslim,VEG,D48,FALSE,Smith
+Howie,Simeonov,354-60-0312,Male,Sector 20,74,2018-03-10,VP Product Management,DECEASED,2018-03-10,FALSE,Jewish,VEG,D27,FALSE,Ouyuki
+Janey,Rhule,327-31-4568,Female,Sector 20,76,2018-03-11,VP Quality Control,DECEASED,2018-03-11,FALSE,Jewish,NA,B36,FALSE,Ouyuki
+Rana,Crepin,705-73-6894,Female,Sector 20,19,2018-03-11,Compensation Analyst,ALIVE,NA,FALSE,Jewish,VEG,C25,FALSE,Ouyuki
+Mandel,Franiak,201-36-6174,Male,Sector 20,20,2018-03-11,GIS Technical Architect,ALIVE,NA,FALSE,Muslim,NA,A15,FALSE,Pan
+Parker,Daveren,275-08-7420,Male,Sector 20,57,2018-03-11,Staff Scientist,DECEASED,2018-03-11,FALSE,Other,CHCKN,D13,FALSE,Lee
+Rodie,Keig,557-60-9838,Female,Sector 20,94,2018-03-11,Chief Design Engineer,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,C37,FALSE,Lee
+Penny,Silliman,405-33-9368,Male,Sector 20,40,2018-03-11,Staff Accountant I,DECEASED,2018-03-14,FALSE,Catholic,VEG,D15,FALSE,Smith
+Foss,Clewer,269-92-8414,Male,Sector 20,1,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Other,VEG,C19,FALSE,Ouyuki
+Maybelle,Fishpool,172-15-0880,Female,Sector 20,20,2018-03-11,Financial Analyst,ALIVE,NA,FALSE,Jewish,NA,C35,FALSE,Pan
+Sauncho,Raden,342-49-2232,Male,Sector 20,23,2018-03-11,Assistant Professor,ALIVE,NA,FALSE,Catholic,NA,D19,FALSE,White
+Olva,Heintz,862-67-7619,Female,Sector 20,17,2018-03-11,NA,DECEASED,2018-03-12,FALSE,Catholic,NA,D27,FALSE,Sanders
+Homere,Ive,842-98-3606,Male,Sector 20,54,2018-03-11,Human Resources Manager,DECEASED,2018-03-13,FALSE,Catholic,CHCKN,C22,FALSE,Smith
+Ernie,Dumbrill,873-23-4065,Male,Sector 20,28,2018-03-11,Nuclear Power Engineer,ALIVE,NA,FALSE,Catholic,CHCKN,D12,FALSE,Lee
+Perl,Cheltnam,291-65-8773,Female,Sector 20,12,2018-03-11,NA,ALIVE,NA,TRUE,Catholic,NA,C3,TRUE,White
+Karee,Mace,324-17-3308,Female,Sector 20,68,2018-03-11,Help Desk Operator,DECEASED,2018-03-14,FALSE,Catholic,NA,A34,FALSE,Sanders
+Wallie,Sauter,656-02-9401,Male,Sector 20,50,2018-03-11,General Manager,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,D18,FALSE,Sanders
+Kitty,Walkden,746-32-1260,Female,Sector 20,21,2018-03-11,Assistant Media Planner,DECEASED,2018-03-13,FALSE,NA,NA,B44,FALSE,Lee
+Gilly,Germon,790-16-2978,Female,Sector 20,80,2018-03-11,Desktop Support Technician,DECEASED,2018-03-11,FALSE,Muslim,NA,C11,FALSE,Pan
+Gerladina,Pleming,459-13-9293,Female,Sector 20,74,2018-03-11,Recruiter,DECEASED,2018-03-14,FALSE,Catholic,CHCKN,B31,FALSE,Pan
+Evelina,Dufty,725-21-6405,Female,Sector 20,71,2018-03-11,Engineer II,ALIVE,NA,FALSE,Protestant,VEG,D33,FALSE,Pan
+Michail,Pauli,201-14-3420,Male,Sector 20,90,2018-03-11,Accountant II,DECEASED,2018-03-11,FALSE,Other,VEG,C39,FALSE,Sanders
+Stefania,Canton,637-34-0312,Female,Sector 20,85,2018-03-11,Biostatistician I,DECEASED,2018-03-13,FALSE,Catholic,VEG,D38,FALSE,Ouyuki
+Yelena,Sebring,595-22-9676,Female,Sector 20,36,2018-03-11,Graphic Designer,ALIVE,NA,FALSE,NA,CHCKN,C48,FALSE,Sanders
+Leighton,Trussler,712-85-5339,Male,Sector 20,77,2018-03-11,Assistant Manager,ALIVE,NA,FALSE,Muslim,NA,B12,FALSE,Ouyuki
+Jarrad,Fairlie,598-75-1243,Male,Sector 20,76,2018-03-11,Marketing Assistant,DECEASED,2018-03-13,FALSE,Catholic,VEG,B14,FALSE,Lee
+Selene,Arnason,838-69-5147,Female,Sector 20,43,2018-03-11,Account Executive,ALIVE,NA,FALSE,Other,NA,A44,FALSE,Smith
+Modesta,Matschoss,333-25-8095,Female,Sector 20,24,2018-03-11,Account Executive,ALIVE,NA,FALSE,Jewish,VEG,D18,FALSE,Smith
+Guido,Doerling,710-87-1535,Male,Sector 20,90,2018-03-12,Assistant Professor,DECEASED,2018-03-14,FALSE,Jewish,CHCKN,B30,FALSE,Ouyuki
+Else,Varnals,284-91-2511,Female,Sector 20,83,2018-03-12,VP Product Management,ALIVE,NA,FALSE,Catholic,VEG,D11,FALSE,Smith
+Waverly,Brimicombe,575-74-4724,Male,Sector 20,18,2018-03-12,NA,ALIVE,NA,FALSE,Jewish,CHCKN,C14,TRUE,Pan
+Rosabelle,Giovannardi,594-74-2753,Female,Sector 20,45,2018-03-12,Project Manager,ALIVE,NA,FALSE,Catholic,VEG,C45,FALSE,Smith
+Gayle,Osant,582-24-0167,Female,Sector 20,87,2018-03-12,Geological Engineer,ALIVE,NA,FALSE,Other,VEG,D26,FALSE,Pan
+Bancroft,Deal,723-18-4430,Male,Sector 20,59,2018-03-12,VP Accounting,ALIVE,NA,FALSE,Muslim,NA,B26,FALSE,White
+Erskine,Limon,740-61-0366,Male,Sector 21,54,2018-03-06,Executive Secretary,DECEASED,2018-03-07,FALSE,Jewish,CHCKN,D15,FALSE,Ouyuki
+Brander,Gammett,829-39-2470,Male,Sector 21,78,2018-03-06,Quality Engineer,DECEASED,2018-03-08,FALSE,Catholic,CHCKN,B7,FALSE,Smith
+Allen,Dorot,886-78-8751,Male,Sector 21,21,2018-03-07,Recruiter,DECEASED,2018-03-10,FALSE,Muslim,VEG,D50,FALSE,Ouyuki
+Flossi,Bouzan,830-10-5077,Female,Sector 21,77,2018-03-07,Technical Writer,DECEASED,2018-03-08,FALSE,NA,VEG,D13,FALSE,Pan
+Gabriele,Vasyukhin,268-86-7618,Male,Sector 21,71,2018-03-07,Tax Accountant,DECEASED,2018-03-09,FALSE,Catholic,VEG,B10,FALSE,White
+Kermy,Stockow,218-24-0955,Male,Sector 21,15,2018-03-07,NA,DECEASED,2018-03-07,FALSE,Catholic,NA,B41,FALSE,Smith
+Maia,Matyja,700-05-2091,Female,Sector 21,2,2018-03-07,NA,DECEASED,2018-03-07,FALSE,Other,CHCKN,D18,TRUE,Ouyuki
+Frederik,Deelay,811-54-3426,Male,Sector 21,57,2018-03-07,Administrative Officer,ALIVE,NA,FALSE,Protestant,CHCKN,D21,FALSE,White
+Lay,Galbreath,452-49-9798,Male,Sector 21,88,2018-03-07,Marketing Manager,ALIVE,NA,FALSE,NA,NA,A4,FALSE,Lee
+Melodee,Sykes,849-32-9882,Female,Sector 21,17,2018-03-08,NA,ALIVE,NA,FALSE,NA,NA,A37,TRUE,White
+Deeyn,Sandercock,700-26-8645,Female,Sector 21,14,2018-03-08,NA,DECEASED,2018-03-09,TRUE,Jewish,VEG,A34,TRUE,Lee
+Ynes,Decourcy,194-17-7828,Female,Sector 21,66,2018-03-08,Administrative Assistant III,DECEASED,2018-03-08,FALSE,Other,VEG,D23,FALSE,White
+Corissa,Skirven,394-42-8888,Female,Sector 21,15,2018-03-08,NA,ALIVE,NA,TRUE,Jewish,CHCKN,B25,TRUE,Smith
+Bab,Ffrench,292-39-9535,Female,Sector 21,96,2018-03-08,Editor,DECEASED,2018-03-08,FALSE,Protestant,CHCKN,C44,FALSE,White
+Micah,Warlton,235-98-0388,Male,Sector 21,43,2018-03-08,Clinical Specialist,ALIVE,NA,FALSE,Jewish,VEG,D18,FALSE,Sanders
+Richard,Sandeland,206-19-9302,Male,Sector 21,43,2018-03-08,Budget/Accounting Analyst III,ALIVE,NA,FALSE,Protestant,NA,C22,FALSE,Pan
+Allister,Nassie,807-33-9062,Male,Sector 21,4,2018-03-08,NA,DECEASED,2018-03-10,TRUE,Other,CHCKN,C44,TRUE,Lee
+Maren,Dudliston,645-26-8435,Female,Sector 21,73,2018-03-08,Recruiter,DECEASED,2018-03-08,FALSE,NA,NA,D47,FALSE,Sanders
+Jehu,Alberti,333-46-5099,Male,Sector 21,3,2018-03-08,NA,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,A4,FALSE,Sanders
+Dick,Kliemchen,341-20-5170,Male,Sector 21,54,2018-03-08,Database Administrator II,ALIVE,NA,FALSE,Catholic,CHCKN,D32,FALSE,Ouyuki
+Zonnya,Backsal,620-09-2292,Female,Sector 21,58,2018-03-08,Marketing Assistant,ALIVE,NA,FALSE,Muslim,VEG,C8,FALSE,Smith
+Elfie,Pinnion,833-56-7404,Female,Sector 21,77,2018-03-08,Structural Engineer,ALIVE,NA,FALSE,Other,CHCKN,C18,FALSE,Ouyuki
+Ira,O'dell,543-57-3433,Male,Sector 21,6,2018-03-08,NA,DECEASED,2018-03-10,TRUE,Catholic,CHCKN,D36,FALSE,Lee
+Blinnie,Kealy,613-04-8101,Female,Sector 21,22,2018-03-08,Occupational Therapist,DECEASED,2018-03-09,FALSE,Other,NA,B27,FALSE,Lee
+Loretta,Warlock,153-29-8928,Female,Sector 21,89,2018-03-08,Programmer Analyst IV,DECEASED,2018-03-08,FALSE,Protestant,CHCKN,D8,FALSE,White
+Orton,Godbold,699-85-6473,Male,Sector 21,40,2018-03-08,Human Resources Manager,ALIVE,NA,FALSE,Protestant,CHCKN,D47,FALSE,Ouyuki
+Hermione,Albutt,515-76-0840,Female,Sector 21,76,2018-03-08,Quality Engineer,DECEASED,2018-03-09,FALSE,NA,NA,D47,FALSE,Sanders
+Cameron,Mottini,485-52-4996,Male,Sector 21,25,2018-03-09,Food Chemist,ALIVE,NA,FALSE,Jewish,VEG,A27,FALSE,Lee
+Gwennie,Ors,194-16-5715,Female,Sector 21,71,2018-03-09,Geologist I,ALIVE,NA,FALSE,Other,NA,A8,FALSE,Smith
+Dulciana,Matteau,150-87-9865,Female,Sector 21,76,2018-03-09,VP Sales,DECEASED,2018-03-10,FALSE,NA,NA,D34,FALSE,Sanders
+Millard,Defew,643-02-1738,Male,Sector 21,80,2018-03-09,Data Coordiator,DECEASED,2018-03-12,FALSE,Other,NA,B27,FALSE,Ouyuki
+Othelia,Gavrielli,251-70-9064,Female,Sector 21,52,2018-03-09,Research Assistant I,ALIVE,NA,FALSE,NA,CHCKN,B49,FALSE,White
+Waite,Lake,322-68-0093,Male,Sector 21,27,2018-03-09,Human Resources Assistant IV,DECEASED,2018-03-10,FALSE,Jewish,NA,A45,FALSE,Sanders
+Ahmed,Hugnet,787-63-2971,Male,Sector 21,40,2018-03-09,Help Desk Operator,ALIVE,NA,FALSE,Catholic,CHCKN,C8,FALSE,Ouyuki
+Skylar,MacTrustam,499-44-4410,Male,Sector 21,60,2018-03-09,Research Associate,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,C32,FALSE,Sanders
+Gaynor,Teresi,264-41-5767,Female,Sector 21,47,2018-03-09,Programmer I,ALIVE,NA,FALSE,Jewish,CHCKN,C47,FALSE,Ouyuki
+Teddie,Aldham,567-22-3908,Male,Sector 21,79,2018-03-09,Staff Scientist,ALIVE,NA,FALSE,Other,VEG,A15,FALSE,Pan
+Tish,Walkden,751-85-9101,Female,Sector 21,14,2018-03-09,NA,DECEASED,2018-03-12,FALSE,Protestant,CHCKN,A23,TRUE,Ouyuki
+Luella,Blunderfield,689-49-5904,Female,Sector 21,42,2018-03-09,Media Manager III,DECEASED,2018-03-12,FALSE,Muslim,NA,C11,FALSE,White
+Hale,Frentz,265-05-5489,Male,Sector 21,6,2018-03-09,NA,ALIVE,NA,FALSE,Catholic,NA,A28,TRUE,White
+Janina,Thredder,362-49-2520,Female,Sector 21,9,2018-03-09,NA,ALIVE,NA,FALSE,NA,CHCKN,A30,TRUE,Pan
+Hadria,Gladman,570-79-2597,Female,Sector 21,82,2018-03-09,Executive Secretary,ALIVE,NA,FALSE,Protestant,CHCKN,A45,FALSE,Smith
+Cash,Goschalk,695-51-4293,Male,Sector 21,52,2018-03-09,Senior Cost Accountant,DECEASED,2018-03-09,FALSE,Catholic,VEG,A22,FALSE,Pan
+Bard,Skilton,747-83-4961,Male,Sector 21,64,2018-03-09,Research Assistant II,DECEASED,2018-03-10,FALSE,Protestant,CHCKN,D17,FALSE,Sanders
+Oran,Gerner,173-39-2824,Male,Sector 21,10,2018-03-09,NA,DECEASED,2018-03-09,TRUE,Catholic,CHCKN,D25,TRUE,Sanders
+Fancie,Scholler,814-92-5488,Female,Sector 21,56,2018-03-09,VP Sales,DECEASED,2018-03-11,FALSE,Catholic,NA,A23,FALSE,Lee
+Gilberto,Seally,312-04-2082,Male,Sector 21,39,2018-03-09,VP Quality Control,ALIVE,NA,FALSE,Protestant,CHCKN,D1,FALSE,Smith
+Dorri,Heims,421-13-6457,Female,Sector 21,46,2018-03-09,Senior Cost Accountant,ALIVE,NA,FALSE,Catholic,NA,B2,FALSE,Ouyuki
+Broderick,Abatelli,104-62-6951,Male,Sector 21,41,2018-03-09,Account Executive,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,C13,FALSE,Sanders
+Garrek,Tidbald,479-82-6284,Male,Sector 21,92,2018-03-09,VP Quality Control,ALIVE,NA,FALSE,Catholic,CHCKN,A40,FALSE,Pan
+Florri,Meader,314-82-3228,Female,Sector 21,58,2018-03-09,Junior Executive,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,C43,FALSE,Lee
+April,McNeigh,482-14-6573,Female,Sector 21,86,2018-03-09,Operator,DECEASED,2018-03-12,FALSE,NA,NA,A30,FALSE,Smith
+Findlay,Buxsey,259-86-4521,Male,Sector 21,95,2018-03-09,Accounting Assistant III,ALIVE,NA,FALSE,Catholic,NA,C50,FALSE,Pan
+Obadiah,Skull,174-02-3650,Male,Sector 21,62,2018-03-09,Dental Hygienist,ALIVE,NA,FALSE,Jewish,NA,B9,FALSE,Ouyuki
+Kitty,Antonognoli,535-79-0054,Female,Sector 21,50,2018-03-09,Professor,ALIVE,NA,FALSE,Muslim,VEG,C3,FALSE,Lee
+Zaneta,Roget,223-36-3044,Female,Sector 21,4,2018-03-09,NA,ALIVE,NA,TRUE,Other,VEG,C43,FALSE,Ouyuki
+Britteny,Owtram,768-14-8160,Female,Sector 21,83,2018-03-10,Research Assistant II,ALIVE,NA,FALSE,Jewish,VEG,A12,FALSE,Lee
+Odell,Maryska,425-87-1778,Male,Sector 21,90,2018-03-10,Senior Cost Accountant,DECEASED,2018-03-10,FALSE,NA,CHCKN,D11,FALSE,Sanders
+Raimund,Stockwell,879-43-0210,Male,Sector 21,58,2018-03-10,Software Consultant,DECEASED,2018-03-10,FALSE,Other,NA,B24,FALSE,Ouyuki
+Cammy,Stracey,168-14-0981,Female,Sector 21,41,2018-03-10,Editor,DECEASED,2018-03-11,FALSE,Other,CHCKN,C6,FALSE,Lee
+Iolande,Byham,663-89-4300,Female,Sector 21,2,2018-03-10,NA,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,A11,FALSE,Smith
+Billy,Cressingham,164-36-5315,Male,Sector 21,56,2018-03-10,Staff Scientist,ALIVE,NA,FALSE,Jewish,CHCKN,B32,FALSE,Lee
+Caria,Norcutt,503-95-7443,Female,Sector 21,41,2018-03-10,Food Chemist,DECEASED,2018-03-13,FALSE,Muslim,NA,C36,FALSE,Pan
+Tyrone,Nelm,403-84-6890,Male,Sector 21,68,2018-03-10,VP Accounting,ALIVE,NA,FALSE,Jewish,CHCKN,B23,FALSE,Sanders
+Clayson,Cushelly,162-47-5025,Male,Sector 21,58,2018-03-10,Assistant Professor,ALIVE,NA,FALSE,Jewish,NA,C25,FALSE,Smith
+Wyndham,Swyndley,375-10-8563,Male,Sector 21,26,2018-03-10,Office Assistant IV,ALIVE,NA,FALSE,NA,VEG,D41,FALSE,Ouyuki
+Everard,Brooker,832-06-1113,Male,Sector 21,51,2018-03-10,Financial Advisor,ALIVE,NA,FALSE,Catholic,NA,A18,FALSE,Smith
+Laurianne,Besnardeau,128-57-7483,Female,Sector 21,38,2018-03-10,General Manager,DECEASED,2018-03-10,FALSE,Protestant,CHCKN,C37,FALSE,Pan
+Agosto,Mayou,756-08-9211,Male,Sector 21,1,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Protestant,VEG,D41,TRUE,Lee
+Granthem,Anfusso,544-36-9934,Male,Sector 21,19,2018-03-11,Payment Adjustment Coordinator,DECEASED,2018-03-12,FALSE,Catholic,NA,D32,FALSE,Ouyuki
+Chastity,McCaughran,743-95-1626,Female,Sector 21,48,2018-03-11,General Manager,ALIVE,NA,FALSE,NA,VEG,C2,FALSE,Sanders
+Blair,Thurlbeck,841-68-8859,Female,Sector 21,6,2018-03-11,NA,DECEASED,2018-03-13,FALSE,Protestant,CHCKN,D34,TRUE,Pan
+Jennee,Fiddeman,852-30-5745,Female,Sector 21,18,2018-03-11,NA,DECEASED,2018-03-12,FALSE,Protestant,VEG,D8,TRUE,Pan
+Geneva,Marquess,289-03-2534,Female,Sector 21,61,2018-03-11,Automation Specialist I,DECEASED,2018-03-12,FALSE,NA,CHCKN,D47,FALSE,Pan
+Patrica,Waldocke,218-26-0455,Female,Sector 21,28,2018-03-11,Web Designer I,DECEASED,2018-03-13,FALSE,Muslim,NA,C30,FALSE,Sanders
+Tabitha,Kippen,395-42-3286,Female,Sector 21,22,2018-03-11,Financial Advisor,DECEASED,2018-03-11,FALSE,Protestant,VEG,D18,FALSE,White
+Rollins,Kirkness,403-82-9060,Male,Sector 21,54,2018-03-11,Sales Representative,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,C18,FALSE,Lee
+Giavani,Edmed,773-65-2168,Male,Sector 21,10,2018-03-11,NA,DECEASED,2018-03-13,TRUE,Muslim,VEG,D12,TRUE,Lee
+Mauricio,Bobasch,323-41-4801,Male,Sector 21,56,2018-03-11,Budget/Accounting Analyst II,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,B20,FALSE,White
+Ebba,Stollman,609-54-3515,Female,Sector 21,77,2018-03-11,Business Systems Development Analyst,ALIVE,NA,FALSE,NA,VEG,D5,FALSE,Smith
+Josephine,Tirone,260-04-1101,Female,Sector 21,77,2018-03-11,Executive Secretary,DECEASED,2018-03-12,FALSE,Muslim,VEG,D33,FALSE,Ouyuki
+Lona,Dalziell,753-95-3801,Female,Sector 21,91,2018-03-11,Electrical Engineer,ALIVE,NA,FALSE,Muslim,VEG,A1,FALSE,White
+Row,Fruen,546-04-4803,Female,Sector 21,81,2018-03-11,VP Quality Control,ALIVE,NA,FALSE,Jewish,VEG,D45,FALSE,White
+Trent,Seydlitz,300-77-7403,Male,Sector 21,63,2018-03-11,Professor,DECEASED,2018-03-11,FALSE,Protestant,VEG,A29,FALSE,Lee
+Eben,Arnowitz,459-20-2607,Male,Sector 21,57,2018-03-12,Staff Scientist,ALIVE,NA,FALSE,Muslim,NA,B34,FALSE,Lee
+Bevvy,Moodie,780-80-2549,Female,Sector 21,69,2018-03-12,Structural Analysis Engineer,ALIVE,NA,FALSE,Protestant,NA,A29,FALSE,Sanders
+Ingar,Flippelli,335-72-5561,Male,Sector 21,1,2018-03-12,NA,DECEASED,2018-03-12,FALSE,Catholic,VEG,A37,FALSE,Pan
+Tedda,Varian,493-18-6131,Female,Sector 21,31,2018-03-12,Community Outreach Specialist,ALIVE,NA,FALSE,Muslim,NA,B19,FALSE,Ouyuki
+Dov,Gillfillan,878-88-8998,Male,Sector 21,61,2018-03-12,Automation Specialist III,ALIVE,NA,FALSE,Catholic,CHCKN,C50,FALSE,Sanders
+Welsh,Laws,222-92-9769,Male,Sector 21,68,2018-03-12,Speech Pathologist,DECEASED,2018-03-15,FALSE,Other,CHCKN,C18,FALSE,Sanders
+Ivor,Kupper,265-69-3643,Male,Sector 21,78,2018-03-12,Marketing Assistant,ALIVE,NA,FALSE,Other,VEG,D45,FALSE,Sanders
+Maggie,Browning,656-78-3435,Female,Sector 21,28,2018-03-12,Geologist I,ALIVE,NA,FALSE,Other,CHCKN,D20,FALSE,Lee
+Derick,Bilby,185-15-6392,Male,Sector 21,30,2018-03-12,Marketing Assistant,ALIVE,NA,FALSE,NA,VEG,C25,FALSE,Smith
+Alexandre,Knowling,884-12-9891,Male,Sector 21,44,2018-03-12,Marketing Assistant,DECEASED,2018-03-15,FALSE,Muslim,CHCKN,C7,FALSE,Lee
+Nestor,Brewett,815-83-3328,Male,Sector 22,57,2018-03-06,Executive Secretary,DECEASED,2018-03-07,FALSE,NA,VEG,A16,FALSE,Lee
+Katy,Van der Brugge,671-09-8304,Female,Sector 22,27,2018-03-07,Administrative Officer,ALIVE,NA,FALSE,Catholic,VEG,A45,FALSE,Pan
+Thain,Dignon,261-54-4782,Male,Sector 22,23,2018-03-07,Technical Writer,DECEASED,2018-03-07,FALSE,Catholic,CHCKN,B32,FALSE,Smith
+Gabbie,MacCall,422-46-4338,Male,Sector 22,44,2018-03-07,Statistician I,ALIVE,NA,FALSE,Other,CHCKN,B29,FALSE,Pan
+Jayson,Valentino,378-64-7605,Male,Sector 22,43,2018-03-07,Quality Engineer,ALIVE,NA,FALSE,Other,CHCKN,D44,FALSE,Pan
+Chlo,Farlowe,757-76-9660,Female,Sector 22,81,2018-03-07,Account Coordinator,DECEASED,2018-03-07,FALSE,Jewish,CHCKN,B29,FALSE,Sanders
+Ode,Kennermann,730-72-5930,Male,Sector 22,92,2018-03-07,Structural Engineer,DECEASED,2018-03-07,FALSE,Other,NA,A24,FALSE,Ouyuki
+Luisa,Worge,491-09-3127,Female,Sector 22,96,2018-03-07,Electrical Engineer,ALIVE,NA,FALSE,Catholic,NA,B45,FALSE,Lee
+Barby,Eastcott,488-62-2130,Female,Sector 22,79,2018-03-08,Chemical Engineer,DECEASED,2018-03-08,FALSE,Catholic,NA,C21,FALSE,White
+Quintana,Dumbellow,619-57-0419,Female,Sector 22,11,2018-03-08,NA,DECEASED,2018-03-11,TRUE,Muslim,CHCKN,A5,FALSE,Lee
+Renate,Cocking,325-65-2709,Female,Sector 22,26,2018-03-08,Computer Systems Analyst I,DECEASED,2018-03-10,FALSE,Catholic,NA,A10,FALSE,Sanders
+Eran,Bowhey,814-82-7908,Female,Sector 22,76,2018-03-08,Environmental Tech,ALIVE,NA,FALSE,Jewish,CHCKN,D30,FALSE,White
+Gary,Orknay,578-36-1397,Male,Sector 22,58,2018-03-08,Analyst Programmer,ALIVE,NA,FALSE,Other,VEG,C5,FALSE,Lee
+Ilene,Sykora,561-94-1306,Female,Sector 22,78,2018-03-08,Information Systems Manager,ALIVE,NA,FALSE,NA,NA,B45,FALSE,Sanders
+Sonia,Beauly,867-26-7223,Female,Sector 22,69,2018-03-08,Account Executive,DECEASED,2018-03-09,FALSE,Other,CHCKN,B13,FALSE,Pan
+Bay,Fanton,529-15-0055,Male,Sector 22,50,2018-03-08,VP Product Management,DECEASED,2018-03-11,FALSE,Protestant,NA,B25,FALSE,Smith
+Maurise,Anderbrugge,576-84-9499,Male,Sector 22,14,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Catholic,NA,C25,TRUE,Sanders
+Shannon,Stroyan,189-16-3083,Female,Sector 22,30,2018-03-08,Media Manager III,ALIVE,NA,FALSE,NA,NA,A35,FALSE,Pan
+Corbett,Fardy,408-58-4511,Male,Sector 22,1,2018-03-08,NA,DECEASED,2018-03-08,FALSE,NA,CHCKN,D46,FALSE,Smith
+Brett,Maginn,869-43-6140,Female,Sector 22,54,2018-03-08,Media Manager II,ALIVE,NA,FALSE,Catholic,VEG,C19,FALSE,Lee
+Averil,Rickell,420-78-9542,Female,Sector 22,62,2018-03-08,General Manager,ALIVE,NA,FALSE,Other,CHCKN,D31,FALSE,Smith
+Shellie,Comport,219-24-4150,Female,Sector 22,52,2018-03-08,Statistician I,DECEASED,2018-03-10,FALSE,Other,VEG,B48,FALSE,Sanders
+Boony,Andriulis,376-26-9311,Male,Sector 22,32,2018-03-08,Environmental Tech,ALIVE,NA,FALSE,Other,VEG,D17,FALSE,Pan
+Martainn,Giacomucci,757-90-1771,Male,Sector 22,38,2018-03-08,Account Representative IV,ALIVE,NA,FALSE,Catholic,VEG,D37,FALSE,Sanders
+Erna,Offin,125-81-8685,Female,Sector 22,62,2018-03-08,Financial Advisor,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,D47,FALSE,Ouyuki
+Nial,Klosges,296-22-3081,Male,Sector 22,8,2018-03-08,NA,ALIVE,NA,TRUE,Muslim,CHCKN,B13,TRUE,Lee
+Lenette,Templar,840-90-2263,Female,Sector 22,77,2018-03-09,Environmental Specialist,DECEASED,2018-03-12,FALSE,Protestant,VEG,B33,FALSE,Smith
+Nisse,Impleton,400-71-2748,Female,Sector 22,88,2018-03-09,Recruiter,DECEASED,2018-03-09,FALSE,Muslim,NA,A24,FALSE,Pan
+Annmarie,Maides,167-42-2508,Female,Sector 22,74,2018-03-09,Office Assistant IV,ALIVE,NA,FALSE,Muslim,VEG,A37,FALSE,Pan
+Kacy,Dootson,370-21-3478,Female,Sector 22,60,2018-03-09,Research Nurse,DECEASED,2018-03-12,FALSE,Protestant,CHCKN,C41,FALSE,Pan
+Gay,Makey,250-21-7060,Female,Sector 22,38,2018-03-09,Legal Assistant,DECEASED,2018-03-09,FALSE,Jewish,VEG,A48,FALSE,Smith
+Rustin,Stanlake,448-15-8814,Male,Sector 22,18,2018-03-09,NA,DECEASED,2018-03-09,TRUE,Jewish,NA,B14,FALSE,Lee
+Jayme,Gages,564-45-2071,Male,Sector 22,67,2018-03-09,Health Coach IV,ALIVE,NA,FALSE,NA,NA,D23,FALSE,White
+Madeline,Trytsman,543-43-2555,Female,Sector 22,32,2018-03-09,Software Consultant,ALIVE,NA,FALSE,Protestant,CHCKN,D6,FALSE,White
+Camala,Plomer,284-93-4121,Female,Sector 22,90,2018-03-09,Legal Assistant,DECEASED,2018-03-09,FALSE,NA,NA,A39,FALSE,Lee
+Teddie,Belloch,661-38-7559,Male,Sector 22,73,2018-03-09,Tax Accountant,DECEASED,2018-03-12,FALSE,Other,VEG,C39,FALSE,Sanders
+Melamie,Tassel,520-84-2216,Female,Sector 22,30,2018-03-09,Help Desk Operator,DECEASED,2018-03-12,FALSE,Jewish,VEG,B6,FALSE,Smith
+Minny,Baumler,507-55-4780,Female,Sector 22,1,2018-03-09,NA,DECEASED,2018-03-10,FALSE,Other,NA,B41,TRUE,Ouyuki
+Haley,Kiessel,776-07-8490,Male,Sector 22,89,2018-03-09,Editor,DECEASED,2018-03-11,FALSE,NA,CHCKN,B9,FALSE,Pan
+Jolyn,Bruyntjes,546-84-2191,Female,Sector 22,85,2018-03-09,Nuclear Power Engineer,DECEASED,2018-03-10,FALSE,Other,NA,B34,FALSE,Sanders
+Dane,Fickling,600-49-9864,Male,Sector 22,66,2018-03-09,Senior Financial Analyst,DECEASED,2018-03-09,FALSE,Catholic,NA,D20,FALSE,Ouyuki
+Luce,Woodland,331-19-3715,Female,Sector 22,83,2018-03-09,Recruiter,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,C23,FALSE,Ouyuki
+Caterina,Frontczak,639-31-7683,Female,Sector 22,58,2018-03-09,Nurse,DECEASED,2018-03-09,FALSE,Other,NA,A13,FALSE,Ouyuki
+Francisco,Elstub,892-63-2987,Male,Sector 22,84,2018-03-09,Web Developer IV,ALIVE,NA,FALSE,Protestant,VEG,A46,FALSE,Sanders
+Major,Foston,108-69-5593,Male,Sector 22,7,2018-03-09,NA,ALIVE,NA,TRUE,Other,VEG,A11,FALSE,Pan
+Mauricio,Kennaway,408-16-3009,Male,Sector 22,73,2018-03-09,Research Assistant II,ALIVE,NA,FALSE,Protestant,VEG,D21,FALSE,Lee
+Natka,Revell,828-04-2191,Female,Sector 22,90,2018-03-09,Database Administrator II,ALIVE,NA,FALSE,Muslim,NA,C43,FALSE,Pan
+Bartholomeus,Walsham,328-54-5382,Male,Sector 22,26,2018-03-09,Associate Professor,DECEASED,2018-03-11,FALSE,Muslim,NA,D35,FALSE,Lee
+Hilton,O'Sharry,113-58-1937,Male,Sector 22,7,2018-03-09,NA,ALIVE,NA,FALSE,Protestant,NA,C37,TRUE,Smith
+Avivah,Colleer,715-12-1660,Female,Sector 22,95,2018-03-09,Editor,DECEASED,2018-03-11,FALSE,Protestant,NA,C5,FALSE,White
+Eleonora,Lothlorien,345-93-5861,Female,Sector 22,66,2018-03-09,General Manager,DECEASED,2018-03-12,FALSE,Protestant,NA,A41,FALSE,Lee
+Conrade,Hebbs,786-49-8275,Male,Sector 22,61,2018-03-09,Tax Accountant,ALIVE,NA,FALSE,Jewish,NA,B22,FALSE,White
+Bambi,Franzetti,366-65-9109,Female,Sector 22,73,2018-03-09,General Manager,ALIVE,NA,FALSE,Catholic,NA,B44,FALSE,White
+Nigel,Ovid,144-64-3461,Male,Sector 22,15,2018-03-09,NA,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,D33,TRUE,Ouyuki
+Catlaina,Gilbody,895-81-0804,Female,Sector 22,7,2018-03-09,NA,ALIVE,NA,FALSE,NA,VEG,D9,TRUE,Sanders
+Guthrie,Crocetto,379-22-9447,Male,Sector 22,32,2018-03-10,Geologist I,ALIVE,NA,FALSE,NA,VEG,C27,FALSE,Pan
+Jessalin,Chandlar,869-09-1290,Female,Sector 22,7,2018-03-10,NA,ALIVE,NA,FALSE,NA,CHCKN,A32,TRUE,Ouyuki
+Richardo,Jzhakov,533-02-0626,Male,Sector 22,25,2018-03-10,Analyst Programmer,DECEASED,2018-03-13,FALSE,Muslim,NA,D15,FALSE,Sanders
+Brock,Girodon,402-59-4005,Male,Sector 22,49,2018-03-10,Electrical Engineer,DECEASED,2018-03-11,FALSE,Protestant,NA,A44,FALSE,Sanders
+Loree,Swatten,757-19-5547,Female,Sector 22,88,2018-03-10,Financial Advisor,ALIVE,NA,FALSE,Catholic,CHCKN,D30,FALSE,Ouyuki
+Leslie,Ness,618-85-3510,Male,Sector 22,25,2018-03-10,Project Manager,ALIVE,NA,FALSE,Catholic,NA,C46,FALSE,Sanders
+Eolanda,Rapinett,834-93-9058,Female,Sector 22,12,2018-03-10,NA,DECEASED,2018-03-11,FALSE,Protestant,NA,D43,FALSE,Ouyuki
+Cloe,Lovstrom,896-02-5702,Female,Sector 22,95,2018-03-10,Developer IV,ALIVE,NA,FALSE,Jewish,VEG,A13,FALSE,Ouyuki
+Blair,Wardrop,482-88-3570,Male,Sector 22,39,2018-03-10,Automation Specialist III,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,B41,FALSE,Pan
+Claire,Eskrigg,791-85-4756,Male,Sector 22,95,2018-03-10,VP Sales,ALIVE,NA,FALSE,NA,VEG,D40,FALSE,Pan
+Anselm,Applewhite,640-26-3411,Male,Sector 22,0,2018-03-10,NA,DECEASED,2018-03-10,TRUE,Protestant,CHCKN,A28,TRUE,White
+Eberto,Tomlett,809-03-9334,Male,Sector 22,9,2018-03-10,NA,ALIVE,NA,FALSE,NA,VEG,D48,TRUE,Smith
+Gretchen,MacKeig,237-81-4621,Female,Sector 22,30,2018-03-11,Office Assistant I,DECEASED,2018-03-13,FALSE,Muslim,VEG,B22,FALSE,Sanders
+Weidar,Cawte,481-72-0867,Male,Sector 22,7,2018-03-11,NA,DECEASED,2018-03-13,TRUE,NA,NA,D5,FALSE,Sanders
+Roldan,Romei,681-43-8038,Male,Sector 22,54,2018-03-11,Financial Analyst,ALIVE,NA,FALSE,NA,CHCKN,C27,FALSE,Lee
+Heriberto,Jone,216-81-8431,Male,Sector 22,45,2018-03-11,Database Administrator I,DECEASED,2018-03-14,FALSE,NA,VEG,C18,FALSE,White
+Ardelia,Ashforth,111-20-8760,Female,Sector 22,83,2018-03-11,Office Assistant III,DECEASED,2018-03-12,FALSE,Other,VEG,A6,FALSE,White
+Liza,Lillywhite,360-92-2950,Female,Sector 22,34,2018-03-11,Research Nurse,ALIVE,NA,FALSE,Jewish,NA,A35,FALSE,Ouyuki
+Powell,McAughtrie,562-50-9367,Male,Sector 22,19,2018-03-11,Associate Professor,DECEASED,2018-03-13,FALSE,Other,VEG,B24,FALSE,Ouyuki
+Twyla,Bunt,110-53-7791,Female,Sector 22,79,2018-03-11,Community Outreach Specialist,DECEASED,2018-03-12,FALSE,Protestant,VEG,B12,FALSE,Ouyuki
+Ethe,Prahl,235-81-9435,Male,Sector 22,73,2018-03-11,Senior Financial Analyst,DECEASED,2018-03-13,FALSE,Catholic,CHCKN,C17,FALSE,Smith
+Cordie,McAuslene,492-49-3225,Male,Sector 22,91,2018-03-11,Software Consultant,ALIVE,NA,FALSE,Jewish,VEG,B5,FALSE,Lee
+Myrtice,Vergo,334-28-5619,Female,Sector 22,9,2018-03-11,NA,ALIVE,NA,TRUE,Protestant,VEG,B32,FALSE,Pan
+Orelie,Stain,711-45-2637,Female,Sector 22,43,2018-03-11,Staff Scientist,DECEASED,2018-03-11,FALSE,Catholic,NA,B17,FALSE,Lee
+Baillie,Dundendale,580-99-8991,Male,Sector 22,22,2018-03-11,Operator,DECEASED,2018-03-12,FALSE,Muslim,VEG,B19,FALSE,White
+Eve,Rodenburgh,839-09-3546,Female,Sector 22,47,2018-03-11,Civil Engineer,DECEASED,2018-03-12,FALSE,NA,CHCKN,A36,FALSE,Ouyuki
+Alastair,Wilkie,754-52-2434,Male,Sector 22,83,2018-03-11,Geologist III,DECEASED,2018-03-11,FALSE,NA,VEG,B34,FALSE,Smith
+Winfred,O'Dooghaine,481-83-1638,Male,Sector 22,36,2018-03-11,VP Accounting,DECEASED,2018-03-14,FALSE,Protestant,NA,D42,FALSE,Smith
+Beltran,McCroft,530-30-6044,Male,Sector 22,18,2018-03-12,NA,ALIVE,NA,FALSE,Muslim,VEG,C23,TRUE,Ouyuki
+Tamas,Attride,520-66-7943,Male,Sector 22,77,2018-03-12,Associate Professor,DECEASED,2018-03-15,FALSE,Jewish,CHCKN,B46,FALSE,Lee
+Balduin,Wudeland,167-33-1969,Male,Sector 22,76,2018-03-12,Electrical Engineer,ALIVE,NA,FALSE,Catholic,NA,B28,FALSE,Lee
+Kort,Rossiter,423-59-8140,Male,Sector 22,67,2018-03-12,Design Engineer,ALIVE,NA,FALSE,Protestant,NA,B3,FALSE,Smith
+Napoleon,Twyford,559-27-6824,Male,Sector 22,95,2018-03-12,Administrative Assistant IV,ALIVE,NA,FALSE,Muslim,CHCKN,D34,FALSE,White
+Fredrika,Boar,313-10-3214,Female,Sector 22,82,2018-03-12,Clinical Specialist,ALIVE,NA,FALSE,Other,VEG,D45,FALSE,Sanders
+Geoffry,Bartunek,790-92-3215,Male,Sector 22,66,2018-03-12,Research Assistant II,ALIVE,NA,FALSE,Other,CHCKN,D43,FALSE,Lee
+Oliver,Banthorpe,331-33-6720,Male,Sector 22,22,2018-03-12,Software Engineer IV,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,B7,FALSE,Sanders
+Morly,Vinck,887-25-0104,Male,Sector 22,77,2018-03-12,Help Desk Operator,ALIVE,NA,FALSE,Protestant,VEG,D31,FALSE,Smith
+Katina,Malpass,645-31-6150,Female,Sector 22,82,2018-03-12,Senior Cost Accountant,DECEASED,2018-03-12,FALSE,Jewish,VEG,B7,FALSE,Lee
+Vic,Swallwell,224-25-4377,Male,Sector 22,58,2018-03-12,Director of Sales,DECEASED,2018-03-12,FALSE,Catholic,CHCKN,D32,FALSE,Sanders
+Gran,Fanton,832-21-1767,Male,Sector 22,95,2018-03-12,Structural Engineer,DECEASED,2018-03-14,FALSE,Catholic,VEG,C44,FALSE,Pan
+Vlad,Philipps,892-14-3164,Male,Sector 22,21,2018-03-12,Assistant Professor,ALIVE,NA,FALSE,Catholic,NA,D12,FALSE,Pan
+Rip,Duncan,167-69-9780,Male,Sector 22,76,2018-03-12,Internal Auditor,ALIVE,NA,FALSE,Catholic,VEG,A20,FALSE,White
+Earl,Szabo,250-11-8765,Male,Sector 22,90,2018-03-12,Statistician I,DECEASED,2018-03-14,FALSE,Protestant,VEG,A13,FALSE,Smith
+Giusto,Basillon,217-11-2489,Male,Sector 22,7,2018-03-12,NA,ALIVE,NA,FALSE,Muslim,CHCKN,D33,TRUE,Pan
+Casi,McKernan,879-13-7678,Female,Sector 22,46,2018-03-12,Systems Administrator I,ALIVE,NA,FALSE,Jewish,VEG,D19,FALSE,Sanders
+Trever,Eastam,198-81-3084,Male,Sector 22,86,2018-03-12,Accounting Assistant I,ALIVE,NA,FALSE,Jewish,CHCKN,C3,FALSE,White
+Mickie,Regis,231-99-2499,Male,Sector 22,47,2018-03-12,Staff Scientist,DECEASED,2018-03-13,FALSE,NA,CHCKN,C3,FALSE,Lee
+Clement,Coslett,148-31-6828,Male,Sector 22,70,2018-03-12,Media Manager IV,ALIVE,NA,FALSE,NA,CHCKN,A34,FALSE,Ouyuki
+Lacee,Stredder,572-52-1772,Female,Sector 22,9,2018-03-12,NA,DECEASED,2018-03-13,FALSE,Catholic,NA,A14,TRUE,Sanders
+Scottie,Maudlen,701-43-9396,Male,Sector 22,52,2018-03-12,Occupational Therapist,ALIVE,NA,FALSE,Jewish,CHCKN,B5,FALSE,White
+Desmond,Sexton,384-89-2786,Male,Sector 22,27,2018-03-12,VP Marketing,ALIVE,NA,FALSE,NA,VEG,C47,FALSE,Ouyuki
+Sayre,Hartly,245-78-4347,Female,Sector 22,19,2018-03-12,Help Desk Technician,DECEASED,2018-03-15,FALSE,Protestant,CHCKN,A39,FALSE,Lee
+Mag,Scarff,161-52-2814,Female,Sector 22,72,2018-03-12,Quality Engineer,DECEASED,2018-03-15,FALSE,Jewish,VEG,A40,FALSE,Lee
+Cissy,Pountney,245-73-7427,Female,Sector 22,54,2018-03-12,Statistician IV,DECEASED,2018-03-15,FALSE,Jewish,CHCKN,A15,FALSE,Pan
+Katharyn,Goucher,850-24-6409,Female,Sector 22,19,2018-03-12,Geologist III,ALIVE,NA,FALSE,NA,VEG,A9,FALSE,Ouyuki
+Fax,Pillman,452-95-8258,Male,Sector 22,55,2018-03-12,Operator,ALIVE,NA,FALSE,Protestant,VEG,A31,FALSE,White
+Parsifal,Eddison,123-11-0356,Male,Sector 22,14,2018-03-12,NA,ALIVE,NA,TRUE,Catholic,VEG,B23,FALSE,Pan
+Putnam,Winter,135-59-4255,Male,Sector 22,13,2018-03-12,NA,DECEASED,2018-03-15,TRUE,Muslim,VEG,B12,TRUE,Sanders
+Nichols,Ferryn,199-52-4577,Male,Sector 22,16,2018-03-12,NA,DECEASED,2018-03-15,TRUE,Muslim,VEG,D46,FALSE,Sanders
+Rivalee,Rawcliff,742-13-0791,Female,Sector 22,82,2018-03-12,Physical Therapy Assistant,ALIVE,NA,FALSE,Protestant,CHCKN,D13,FALSE,Smith
+Jacinda,Franzolini,266-66-9218,Female,Sector 22,49,2018-03-12,Programmer Analyst IV,DECEASED,2018-03-12,FALSE,Catholic,VEG,B36,FALSE,Lee
+Deloris,Blaasch,233-87-8653,Female,Sector 23,96,2018-03-05,Web Developer II,DECEASED,2018-03-06,FALSE,Protestant,NA,C30,FALSE,Sanders
+Hermione,Bannester,311-51-0937,Female,Sector 23,13,2018-03-05,NA,DECEASED,2018-03-07,FALSE,NA,VEG,C4,TRUE,Pan
+Lamont,Letch,741-12-3063,Male,Sector 23,70,2018-03-05,Analog Circuit Design manager,ALIVE,NA,FALSE,NA,VEG,B9,FALSE,Ouyuki
+Ximenez,Harburtson,702-25-5002,Male,Sector 23,30,2018-03-05,Web Developer III,ALIVE,NA,FALSE,Protestant,CHCKN,A45,FALSE,Ouyuki
+Crichton,Balding,161-34-1958,Male,Sector 23,95,2018-03-05,Financial Analyst,DECEASED,2018-03-05,FALSE,Jewish,VEG,B21,FALSE,Pan
+Muriel,Flaunders,461-59-1379,Female,Sector 23,71,2018-03-06,GIS Technical Architect,ALIVE,NA,FALSE,Other,VEG,D2,FALSE,White
+Consalve,Colledge,199-62-2467,Male,Sector 23,11,2018-03-06,NA,ALIVE,NA,TRUE,Jewish,CHCKN,A11,TRUE,Smith
+Dalenna,Lenox,634-88-8033,Female,Sector 23,39,2018-03-06,Automation Specialist III,ALIVE,NA,FALSE,Muslim,NA,A31,FALSE,Sanders
+Frans,Clewett,432-76-9065,Male,Sector 23,9,2018-03-06,NA,ALIVE,NA,FALSE,Other,CHCKN,D44,FALSE,Sanders
+Kelli,Attwood,442-94-9939,Female,Sector 23,21,2018-03-06,Account Executive,DECEASED,2018-03-08,FALSE,NA,CHCKN,B27,FALSE,Pan
+Jarrid,Goligly,407-21-6127,Male,Sector 23,69,2018-03-06,Research Assistant II,DECEASED,2018-03-07,FALSE,Jewish,VEG,D29,FALSE,White
+Wes,Bruster,251-84-8487,Male,Sector 23,76,2018-03-06,Nurse Practicioner,ALIVE,NA,FALSE,Catholic,NA,C49,FALSE,Ouyuki
+Bale,Champkin,783-19-9212,Male,Sector 23,21,2018-03-06,Registered Nurse,DECEASED,2018-03-08,FALSE,Other,NA,B39,FALSE,Pan
+Bartlet,Marlen,227-88-4769,Male,Sector 23,16,2018-03-06,NA,DECEASED,2018-03-07,FALSE,NA,VEG,A3,TRUE,Lee
+Miner,Croley,721-43-6605,Male,Sector 23,82,2018-03-06,Chemical Engineer,DECEASED,2018-03-06,FALSE,Muslim,CHCKN,C48,FALSE,Smith
+Clemmie,McKevin,160-72-9360,Female,Sector 23,69,2018-03-06,VP Quality Control,DECEASED,2018-03-07,FALSE,NA,CHCKN,C33,FALSE,Sanders
+Ericka,Derill,182-92-6453,Female,Sector 23,77,2018-03-06,Food Chemist,ALIVE,NA,FALSE,Catholic,VEG,A47,FALSE,Ouyuki
+Franzen,Matfin,122-90-6562,Male,Sector 23,53,2018-03-06,Staff Scientist,ALIVE,NA,FALSE,NA,NA,C33,FALSE,Lee
+Lorin,Oppery,435-49-0927,Male,Sector 23,36,2018-03-06,Structural Analysis Engineer,DECEASED,2018-03-06,FALSE,Protestant,NA,A47,FALSE,Lee
+Bethanne,Leworthy,223-47-9881,Female,Sector 23,18,2018-03-06,NA,ALIVE,NA,FALSE,Protestant,CHCKN,A23,TRUE,Lee
+Lorilee,Lear,219-83-1095,Female,Sector 23,96,2018-03-06,Data Coordiator,DECEASED,2018-03-09,FALSE,Other,VEG,D9,FALSE,Ouyuki
+Audre,Borrell,420-23-0821,Female,Sector 23,54,2018-03-06,Media Manager I,ALIVE,NA,FALSE,Muslim,VEG,A5,FALSE,Smith
+Morrie,Eldered,340-56-3812,Male,Sector 23,74,2018-03-06,Financial Analyst,ALIVE,NA,FALSE,NA,CHCKN,B1,FALSE,Pan
+Joella,Shewon,267-23-3012,Female,Sector 23,78,2018-03-06,Nurse Practicioner,DECEASED,2018-03-06,FALSE,Protestant,VEG,B10,FALSE,Smith
+Ariel,Mullins,545-89-7944,Male,Sector 23,29,2018-03-06,Web Designer II,DECEASED,2018-03-06,FALSE,Muslim,VEG,A48,FALSE,Pan
+Gregoire,Cremer,145-24-7382,Male,Sector 23,71,2018-03-06,Physical Therapy Assistant,ALIVE,NA,FALSE,NA,CHCKN,C21,FALSE,White
+Selestina,Mooring,801-25-9410,Female,Sector 23,69,2018-03-06,Automation Specialist II,ALIVE,NA,FALSE,Other,VEG,D45,FALSE,Smith
+Marcie,Whitmore,382-61-4935,Female,Sector 23,13,2018-03-06,NA,DECEASED,2018-03-06,FALSE,NA,NA,C32,TRUE,Lee
+Micaela,Ramsbotham,238-73-7414,Female,Sector 23,9,2018-03-06,NA,ALIVE,NA,TRUE,Muslim,VEG,D23,TRUE,Ouyuki
+Ophelia,Reyburn,109-25-1818,Female,Sector 23,72,2018-03-06,Chief Design Engineer,ALIVE,NA,FALSE,Catholic,CHCKN,A43,FALSE,Pan
+Ardine,Wadwell,579-72-2786,Female,Sector 23,90,2018-03-06,Software Test Engineer IV,ALIVE,NA,FALSE,Other,NA,C18,FALSE,Lee
+Bert,Botright,165-26-0480,Male,Sector 23,57,2018-03-06,Software Test Engineer II,ALIVE,NA,FALSE,Jewish,NA,A46,FALSE,White
+Eldridge,Divina,699-88-6448,Male,Sector 23,2,2018-03-06,NA,DECEASED,2018-03-06,TRUE,NA,NA,B2,FALSE,White
+Conchita,Crown,329-72-7210,Female,Sector 23,7,2018-03-06,NA,DECEASED,2018-03-08,TRUE,Catholic,NA,A8,FALSE,Pan
+Tremain,Hamon,231-44-0052,Male,Sector 23,84,2018-03-07,Physical Therapy Assistant,DECEASED,2018-03-08,FALSE,Protestant,NA,C12,FALSE,Sanders
+Berri,Noonan,130-50-5021,Female,Sector 23,22,2018-03-07,Director of Sales,ALIVE,NA,FALSE,Other,CHCKN,B26,FALSE,Pan
+Piotr,Keighley,871-13-1261,Male,Sector 23,26,2018-03-07,Director of Sales,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,C18,FALSE,Smith
+Marcy,Sheals,224-11-5072,Female,Sector 23,50,2018-03-07,Web Designer III,ALIVE,NA,FALSE,NA,VEG,D5,FALSE,Pan
+Ethe,Apthorpe,128-26-4388,Male,Sector 23,21,2018-03-07,Safety Technician IV,ALIVE,NA,FALSE,NA,CHCKN,A5,FALSE,Lee
+Celestia,Vahey,806-82-0037,Female,Sector 23,74,2018-03-07,Staff Scientist,DECEASED,2018-03-10,FALSE,Catholic,NA,B22,FALSE,White
+Brnaba,Akrigg,133-32-1210,Male,Sector 23,95,2018-03-07,Quality Engineer,DECEASED,2018-03-09,FALSE,Catholic,VEG,D22,FALSE,White
+Christos,Allchorne,261-12-6792,Male,Sector 23,61,2018-03-07,Systems Administrator I,DECEASED,2018-03-08,FALSE,Jewish,NA,D5,FALSE,Ouyuki
+Fawnia,Vedishchev,100-40-8431,Female,Sector 23,67,2018-03-07,Staff Accountant IV,DECEASED,2018-03-07,FALSE,Other,CHCKN,C44,FALSE,Pan
+Joelynn,Speare,412-94-3915,Female,Sector 23,40,2018-03-07,Senior Sales Associate,ALIVE,NA,FALSE,Jewish,CHCKN,A7,FALSE,Sanders
+Ed,Fagence,410-02-4201,Male,Sector 23,89,2018-03-07,Professor,ALIVE,NA,FALSE,Protestant,CHCKN,B20,FALSE,Sanders
+Victoir,Bohl,301-60-7016,Male,Sector 23,57,2018-03-07,Financial Advisor,DECEASED,2018-03-08,FALSE,Muslim,VEG,B3,FALSE,Ouyuki
+Ty,Garie,747-91-5846,Male,Sector 23,10,2018-03-07,NA,DECEASED,2018-03-07,FALSE,NA,NA,C47,FALSE,Ouyuki
+Mignonne,Bunney,169-24-9993,Female,Sector 23,30,2018-03-07,Actuary,DECEASED,2018-03-08,FALSE,NA,CHCKN,D5,FALSE,Ouyuki
+Phylis,Hindenberger,651-20-5508,Female,Sector 23,38,2018-03-07,Environmental Specialist,ALIVE,NA,FALSE,Muslim,NA,B47,FALSE,Pan
+Nicholas,Swett,605-88-6910,Male,Sector 23,44,2018-03-08,Engineer III,DECEASED,2018-03-08,FALSE,Jewish,VEG,B31,FALSE,Pan
+Alexander,Rozsa,184-68-4206,Male,Sector 23,0,2018-03-08,NA,DECEASED,2018-03-08,TRUE,Other,NA,D14,TRUE,Ouyuki
+Haleigh,Tuckerman,857-21-2143,Female,Sector 23,11,2018-03-08,NA,ALIVE,NA,TRUE,Protestant,NA,A46,FALSE,Ouyuki
+Darryl,Moraleda,165-37-3647,Female,Sector 23,27,2018-03-08,Sales Representative,DECEASED,2018-03-08,FALSE,Protestant,NA,C9,FALSE,Sanders
+Ardelia,Nolli,427-20-1608,Female,Sector 23,86,2018-03-08,Financial Analyst,DECEASED,2018-03-09,FALSE,Protestant,CHCKN,C5,FALSE,Smith
+Bernelle,Goodbur,879-15-5003,Female,Sector 23,17,2018-03-09,NA,DECEASED,2018-03-11,TRUE,NA,CHCKN,A29,TRUE,Ouyuki
+Bondon,Pavlik,453-75-1712,Male,Sector 23,1,2018-03-09,NA,DECEASED,2018-03-09,FALSE,Protestant,VEG,B1,TRUE,Smith
+Marna,Matthensen,601-51-1390,Female,Sector 23,50,2018-03-09,Safety Technician III,ALIVE,NA,FALSE,Muslim,VEG,D43,FALSE,Smith
+Barnabas,Harcarse,676-45-2799,Male,Sector 23,13,2018-03-09,NA,DECEASED,2018-03-12,TRUE,Jewish,CHCKN,B22,TRUE,Lee
+Niccolo,Gainsbury,210-33-8207,Male,Sector 23,57,2018-03-09,Assistant Professor,ALIVE,NA,FALSE,Protestant,NA,B14,FALSE,Pan
+Selinda,Killcross,112-19-5065,Female,Sector 23,79,2018-03-09,Analog Circuit Design manager,ALIVE,NA,FALSE,Other,VEG,B6,FALSE,Lee
+Lorette,Platts,794-28-0671,Female,Sector 23,63,2018-03-09,Electrical Engineer,DECEASED,2018-03-12,FALSE,Other,VEG,A24,FALSE,White
+Shurlocke,Cecere,709-91-6955,Male,Sector 23,21,2018-03-09,Speech Pathologist,ALIVE,NA,FALSE,Other,VEG,B32,FALSE,Ouyuki
+Pancho,Schrei,817-07-4372,Male,Sector 23,2,2018-03-09,NA,DECEASED,2018-03-09,TRUE,Muslim,VEG,B44,TRUE,Lee
+Reid,Wooderson,468-74-2336,Male,Sector 23,2,2018-03-09,NA,DECEASED,2018-03-09,TRUE,NA,NA,A48,FALSE,Pan
+Trish,Ledingham,672-66-6698,Female,Sector 23,34,2018-03-09,Administrative Officer,ALIVE,NA,FALSE,Muslim,NA,A17,FALSE,White
+Gayelord,Bowfin,330-95-4936,Male,Sector 23,21,2018-03-09,Nuclear Power Engineer,ALIVE,NA,FALSE,NA,VEG,B12,FALSE,Smith
+Winni,Sanbrooke,634-32-8478,Female,Sector 23,27,2018-03-09,Marketing Manager,ALIVE,NA,FALSE,NA,CHCKN,A34,FALSE,Lee
+Jud,Burgher,497-77-8539,Male,Sector 23,75,2018-03-09,Community Outreach Specialist,ALIVE,NA,FALSE,Other,CHCKN,C8,FALSE,Sanders
+Neall,Baudone,251-46-8159,Male,Sector 23,56,2018-03-10,Senior Quality Engineer,DECEASED,2018-03-12,FALSE,Protestant,NA,A18,FALSE,Pan
+Carolyne,Rollingson,749-58-3039,Female,Sector 23,45,2018-03-10,Business Systems Development Analyst,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,D3,FALSE,Pan
+Terri-jo,Pigney,762-93-6552,Female,Sector 23,7,2018-03-10,NA,DECEASED,2018-03-10,FALSE,NA,NA,D1,TRUE,Lee
+Sutton,Lyokhin,137-54-4480,Male,Sector 23,55,2018-03-10,Executive Secretary,DECEASED,2018-03-12,FALSE,Catholic,NA,B24,FALSE,White
+Eveleen,Garton,899-42-9667,Female,Sector 23,34,2018-03-10,Librarian,ALIVE,NA,FALSE,NA,CHCKN,D12,FALSE,Sanders
+Claire,Andreassen,890-39-1244,Female,Sector 23,34,2018-03-10,Research Assistant I,ALIVE,NA,FALSE,Catholic,CHCKN,A18,FALSE,Pan
+Celestyn,O'Canavan,453-02-8925,Female,Sector 23,53,2018-03-10,Cost Accountant,DECEASED,2018-03-10,FALSE,Other,VEG,D49,FALSE,Pan
+Cal,Beverstock,808-82-3571,Male,Sector 23,93,2018-03-10,General Manager,ALIVE,NA,FALSE,Catholic,VEG,C13,FALSE,White
+Sherri,Desvignes,599-86-0860,Female,Sector 23,49,2018-03-10,Systems Administrator III,ALIVE,NA,FALSE,Jewish,VEG,C12,FALSE,Sanders
+Hartley,Weber,395-34-7576,Male,Sector 23,95,2018-03-10,Biostatistician I,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,A20,FALSE,Pan
+Karoly,Andryushin,294-46-7506,Male,Sector 23,42,2018-03-10,Computer Systems Analyst IV,DECEASED,2018-03-10,FALSE,Protestant,NA,C15,FALSE,Pan
+Craggie,Truett,240-21-4359,Male,Sector 23,20,2018-03-10,Developer III,DECEASED,2018-03-12,FALSE,NA,VEG,A8,FALSE,Lee
+Krisha,Ryves,103-67-5329,Male,Sector 23,46,2018-03-10,Help Desk Technician,DECEASED,2018-03-11,FALSE,Catholic,NA,B26,FALSE,Ouyuki
+Jillayne,Umbers,549-77-8417,Female,Sector 23,47,2018-03-10,Social Worker,ALIVE,NA,FALSE,Other,NA,D24,FALSE,Ouyuki
+Jule,Sieve,859-90-0801,Male,Sector 23,36,2018-03-10,VP Product Management,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,D27,FALSE,Sanders
+Agosto,Shawdforth,436-64-5413,Male,Sector 23,54,2018-03-10,Teacher,DECEASED,2018-03-10,FALSE,NA,VEG,A34,FALSE,White
+Shanda,Neil,793-20-3634,Female,Sector 23,40,2018-03-11,Project Manager,ALIVE,NA,FALSE,NA,CHCKN,C15,FALSE,White
+Stinky,Burns,428-45-7349,Male,Sector 23,18,2018-03-11,NA,ALIVE,NA,TRUE,Jewish,VEG,A44,TRUE,Sanders
+Erskine,Pealing,872-63-4522,Male,Sector 23,50,2018-03-11,Design Engineer,ALIVE,NA,FALSE,Protestant,VEG,A31,FALSE,Smith
+Patrice,Meiklejohn,460-54-8227,Male,Sector 23,66,2018-03-11,Marketing Assistant,ALIVE,NA,FALSE,Muslim,VEG,B14,FALSE,Pan
+Lida,Confait,419-28-8955,Female,Sector 23,35,2018-03-11,Senior Quality Engineer,DECEASED,2018-03-12,FALSE,NA,CHCKN,C46,FALSE,White
+Ring,Bastistini,270-79-3107,Male,Sector 23,0,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Other,NA,B23,TRUE,White
+Niel,Pettigree,399-92-6470,Male,Sector 23,92,2018-03-11,Quality Control Specialist,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,A41,FALSE,Pan
+Walker,Klebes,867-78-1745,Male,Sector 23,17,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Jewish,NA,C27,FALSE,Smith
+Tine,Zanini,493-02-7321,Female,Sector 24,82,2018-03-05,Dental Hygienist,DECEASED,2018-03-06,FALSE,NA,CHCKN,A5,FALSE,Sanders
+Bordie,Sangwin,492-87-3632,Male,Sector 24,31,2018-03-05,Information Systems Manager,ALIVE,NA,FALSE,Other,VEG,B19,FALSE,Smith
+Andonis,Tripcony,326-69-6093,Male,Sector 24,19,2018-03-05,Physical Therapy Assistant,DECEASED,2018-03-07,FALSE,NA,CHCKN,B45,FALSE,Sanders
+Joceline,Scoyles,713-97-7337,Female,Sector 24,16,2018-03-05,NA,DECEASED,2018-03-06,TRUE,Protestant,VEG,D47,TRUE,White
+Felecia,Purcell,892-01-7026,Female,Sector 24,0,2018-03-05,NA,DECEASED,2018-03-05,FALSE,Other,CHCKN,C27,TRUE,Pan
+Ashlen,Delagua,313-36-2035,Female,Sector 24,74,2018-03-06,Software Test Engineer II,DECEASED,2018-03-07,FALSE,NA,NA,D38,FALSE,Smith
+Hewie,Keedwell,825-67-5401,Male,Sector 24,30,2018-03-06,Cost Accountant,DECEASED,2018-03-06,FALSE,NA,CHCKN,B9,FALSE,Ouyuki
+Fielding,Faithfull,796-29-1614,Male,Sector 24,71,2018-03-06,Chemical Engineer,DECEASED,2018-03-08,FALSE,Muslim,CHCKN,C42,FALSE,Ouyuki
+Tymothy,Hemeret,874-78-9532,Male,Sector 24,14,2018-03-06,NA,DECEASED,2018-03-08,TRUE,Protestant,CHCKN,D48,TRUE,Ouyuki
+Pauly,Westney,837-63-5652,Male,Sector 24,78,2018-03-06,Quality Control Specialist,DECEASED,2018-03-06,FALSE,Muslim,VEG,A34,FALSE,White
+Michele,Fernan,230-94-1670,Female,Sector 24,21,2018-03-06,Analog Circuit Design manager,DECEASED,2018-03-06,FALSE,Jewish,CHCKN,D38,FALSE,Sanders
+Denver,Yerrell,856-11-4222,Male,Sector 24,77,2018-03-06,Research Associate,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,D35,FALSE,Ouyuki
+Lavina,Frier,268-19-4601,Female,Sector 24,66,2018-03-06,Structural Analysis Engineer,ALIVE,NA,FALSE,Protestant,CHCKN,C21,FALSE,Pan
+Bonnee,Maidens,719-58-7170,Female,Sector 24,37,2018-03-06,Budget/Accounting Analyst IV,DECEASED,2018-03-08,FALSE,Catholic,NA,C5,FALSE,White
+Bernice,Hugonet,220-75-6454,Female,Sector 24,36,2018-03-06,Programmer Analyst I,ALIVE,NA,FALSE,Other,VEG,D42,FALSE,White
+Rowan,Geekie,803-50-3044,Male,Sector 24,7,2018-03-06,NA,ALIVE,NA,TRUE,NA,NA,A21,TRUE,Lee
+Stanton,Heinschke,438-63-5084,Male,Sector 24,73,2018-03-06,Budget/Accounting Analyst II,DECEASED,2018-03-08,FALSE,NA,VEG,A29,FALSE,White
+Hillier,Mathevon,692-72-7953,Male,Sector 24,35,2018-03-06,Senior Financial Analyst,ALIVE,NA,FALSE,Jewish,NA,D10,FALSE,Ouyuki
+Vassili,Ancketill,275-49-7959,Male,Sector 24,47,2018-03-06,Senior Sales Associate,ALIVE,NA,FALSE,NA,NA,D10,FALSE,Sanders
+Pincas,Fenge,869-74-5500,Male,Sector 24,10,2018-03-06,NA,ALIVE,NA,TRUE,Jewish,CHCKN,D7,TRUE,Lee
+Bren,Newlan,252-80-9874,Female,Sector 24,28,2018-03-06,Clinical Specialist,DECEASED,2018-03-07,FALSE,Jewish,CHCKN,B24,FALSE,Ouyuki
+Shirlene,Timlin,327-65-3086,Female,Sector 24,20,2018-03-06,Data Coordiator,ALIVE,NA,FALSE,NA,VEG,D25,FALSE,Smith
+Tabbatha,Kembery,431-03-9128,Female,Sector 24,59,2018-03-06,Staff Scientist,DECEASED,2018-03-09,FALSE,Muslim,VEG,C1,FALSE,White
+Merrili,Volleth,386-75-6535,Female,Sector 24,34,2018-03-06,Web Designer IV,ALIVE,NA,FALSE,Jewish,NA,A40,FALSE,White
+Chloette,Uttermare,513-51-8382,Female,Sector 24,40,2018-03-06,Media Manager I,DECEASED,2018-03-08,FALSE,Catholic,VEG,A49,FALSE,Lee
+Chucho,Staunton,818-73-7425,Male,Sector 24,83,2018-03-06,Civil Engineer,ALIVE,NA,FALSE,Other,VEG,B4,FALSE,Lee
+Asa,Pacht,515-28-0009,Male,Sector 24,55,2018-03-06,Research Nurse,DECEASED,2018-03-09,FALSE,Catholic,NA,C23,FALSE,Smith
+Dalia,Wolfinger,657-41-4685,Female,Sector 24,66,2018-03-06,Data Coordiator,ALIVE,NA,FALSE,NA,NA,A37,FALSE,White
+Doug,Elles,738-10-0210,Male,Sector 24,38,2018-03-06,VP Accounting,DECEASED,2018-03-08,FALSE,Jewish,NA,B2,FALSE,White
+Jaine,Tomkins,567-75-7974,Female,Sector 24,52,2018-03-06,Professor,ALIVE,NA,FALSE,Catholic,CHCKN,D19,FALSE,Smith
+Trueman,Shiell,734-02-3554,Male,Sector 24,73,2018-03-06,Compensation Analyst,DECEASED,2018-03-07,FALSE,Other,NA,C38,FALSE,White
+Cally,Mannering,598-26-6821,Female,Sector 24,24,2018-03-06,Assistant Media Planner,DECEASED,2018-03-07,FALSE,Other,CHCKN,A12,FALSE,Smith
+Mozelle,Romera,882-76-1761,Female,Sector 24,40,2018-03-06,Account Executive,DECEASED,2018-03-09,FALSE,Muslim,CHCKN,B35,FALSE,White
+Tansy,Sargeaunt,466-87-9052,Female,Sector 24,18,2018-03-06,NA,ALIVE,NA,TRUE,Muslim,VEG,D11,TRUE,Lee
+Elianore,Findon,306-25-5676,Female,Sector 24,22,2018-03-07,Programmer III,DECEASED,2018-03-09,FALSE,NA,CHCKN,D40,FALSE,Sanders
+Linn,Burgisi,243-57-0999,Female,Sector 24,25,2018-03-07,Engineer I,ALIVE,NA,FALSE,Other,CHCKN,B18,FALSE,Lee
+Yurik,MacGragh,873-46-8604,Male,Sector 24,93,2018-03-07,Biostatistician I,DECEASED,2018-03-07,FALSE,NA,CHCKN,A2,FALSE,Lee
+Will,Bumphrey,392-86-1680,Male,Sector 24,32,2018-03-07,Help Desk Operator,DECEASED,2018-03-08,FALSE,Other,NA,D37,FALSE,Ouyuki
+Nigel,McDougald,499-87-2087,Male,Sector 24,80,2018-03-07,Environmental Specialist,ALIVE,NA,FALSE,Protestant,NA,D27,FALSE,Smith
+Maynord,Burdytt,889-04-2567,Male,Sector 24,11,2018-03-07,NA,ALIVE,NA,TRUE,Protestant,NA,D10,TRUE,White
+Alexandre,Dresser,195-94-0402,Male,Sector 24,94,2018-03-07,Social Worker,ALIVE,NA,FALSE,Jewish,VEG,D2,FALSE,Sanders
+Helaina,Simper,335-77-9087,Female,Sector 24,40,2018-03-07,Media Manager III,ALIVE,NA,FALSE,Catholic,NA,D30,FALSE,White
+Harv,Eyden,235-32-2030,Male,Sector 24,43,2018-03-07,Staff Accountant II,DECEASED,2018-03-09,FALSE,NA,NA,B14,FALSE,Lee
+Cletus,Warbys,339-21-4455,Male,Sector 24,30,2018-03-07,Quality Control Specialist,DECEASED,2018-03-09,FALSE,Muslim,VEG,B49,FALSE,Pan
+Deloria,Standish,795-29-3748,Female,Sector 24,57,2018-03-07,VP Sales,ALIVE,NA,FALSE,Catholic,NA,D38,FALSE,White
+Thornton,Boolsen,675-85-0190,Male,Sector 24,20,2018-03-07,Research Associate,ALIVE,NA,FALSE,Protestant,NA,B36,FALSE,White
+Brandyn,Espinal,655-65-1679,Male,Sector 24,67,2018-03-07,Project Manager,ALIVE,NA,FALSE,Protestant,VEG,D30,FALSE,Sanders
+Halie,Ros,151-58-1477,Female,Sector 24,56,2018-03-07,Financial Analyst,ALIVE,NA,FALSE,Catholic,NA,D26,FALSE,Pan
+Ivy,Abramson,604-58-6099,Female,Sector 24,58,2018-03-07,Professor,DECEASED,2018-03-08,FALSE,Catholic,NA,D14,FALSE,Sanders
+Natalie,MacKilroe,621-87-6433,Female,Sector 24,7,2018-03-07,NA,ALIVE,NA,TRUE,Protestant,VEG,D37,TRUE,Smith
+Marika,Whitebrook,406-98-8323,Female,Sector 24,15,2018-03-07,NA,ALIVE,NA,FALSE,Muslim,CHCKN,D26,TRUE,White
+Rodger,Chatwin,707-03-1233,Male,Sector 24,32,2018-03-07,Librarian,ALIVE,NA,FALSE,Muslim,VEG,B21,FALSE,Lee
+Roderich,Browncey,581-10-5666,Male,Sector 24,19,2018-03-07,Staff Accountant III,DECEASED,2018-03-07,FALSE,Jewish,VEG,C19,FALSE,Pan
+Kristen,McCaughren,756-79-8523,Female,Sector 24,2,2018-03-07,NA,DECEASED,2018-03-07,TRUE,Muslim,VEG,B21,TRUE,Smith
+Karlotta,Yarranton,663-93-2900,Female,Sector 24,77,2018-03-07,Research Associate,DECEASED,2018-03-07,FALSE,Jewish,VEG,D13,FALSE,Sanders
+Alisa,Edel,820-56-0826,Female,Sector 24,45,2018-03-07,GIS Technical Architect,ALIVE,NA,FALSE,NA,NA,D33,FALSE,Ouyuki
+Melisande,Chason,403-95-1755,Female,Sector 24,80,2018-03-07,Geological Engineer,ALIVE,NA,FALSE,Catholic,VEG,B36,FALSE,Pan
+Clerissa,Cushelly,850-82-4302,Female,Sector 24,94,2018-03-07,Research Nurse,DECEASED,2018-03-08,FALSE,NA,VEG,C20,FALSE,Pan
+Bellanca,Lathee,553-27-2324,Female,Sector 24,32,2018-03-07,Payment Adjustment Coordinator,ALIVE,NA,FALSE,Other,CHCKN,A7,FALSE,White
+Corrine,Claire,589-61-4958,Female,Sector 24,19,2018-03-07,Software Test Engineer II,ALIVE,NA,FALSE,NA,NA,B15,FALSE,Pan
+Bernadina,Aggio,656-23-7336,Female,Sector 24,50,2018-03-07,Accountant I,ALIVE,NA,FALSE,Muslim,CHCKN,D43,FALSE,Sanders
+Stillman,Eldridge,828-87-3060,Male,Sector 24,0,2018-03-07,NA,DECEASED,2018-03-07,FALSE,Catholic,NA,A25,FALSE,White
+Rosalinda,Niese,858-41-5354,Female,Sector 24,70,2018-03-07,Desktop Support Technician,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,B48,FALSE,Sanders
+Vivianna,Formigli,247-12-7937,Female,Sector 24,59,2018-03-07,Geological Engineer,ALIVE,NA,FALSE,Protestant,VEG,D31,FALSE,Pan
+Hedvige,Rodliff,502-52-9178,Female,Sector 24,42,2018-03-07,Help Desk Technician,DECEASED,2018-03-07,FALSE,Jewish,CHCKN,C32,FALSE,Lee
+Phaidra,Glasson,574-66-7450,Female,Sector 24,21,2018-03-07,Nurse Practicioner,ALIVE,NA,FALSE,Muslim,CHCKN,B39,FALSE,Smith
+Crysta,Ugolini,348-86-9922,Female,Sector 24,42,2018-03-07,Health Coach II,ALIVE,NA,FALSE,Muslim,VEG,C25,FALSE,Smith
+Gasparo,Divine,662-79-7403,Male,Sector 24,88,2018-03-07,Recruiter,ALIVE,NA,FALSE,Jewish,VEG,B35,FALSE,Pan
+Ninetta,Quarrie,854-46-7247,Female,Sector 24,17,2018-03-07,NA,DECEASED,2018-03-10,FALSE,Other,VEG,D50,FALSE,Pan
+Ring,Ettery,245-14-2997,Male,Sector 24,4,2018-03-08,NA,ALIVE,NA,FALSE,NA,VEG,B36,TRUE,White
+Aurthur,Reglar,509-97-8654,Male,Sector 24,15,2018-03-08,NA,ALIVE,NA,FALSE,Jewish,CHCKN,D34,TRUE,Lee
+Gustie,Camm,466-17-5447,Female,Sector 24,55,2018-03-08,Administrative Officer,ALIVE,NA,FALSE,NA,NA,B2,FALSE,Smith
+Danya,Medendorp,597-07-7106,Male,Sector 24,48,2018-03-08,Programmer I,ALIVE,NA,FALSE,Catholic,CHCKN,C32,FALSE,Lee
+Henderson,Hazeltine,614-57-8180,Male,Sector 24,64,2018-03-08,Geologist IV,ALIVE,NA,FALSE,Catholic,VEG,B38,FALSE,Smith
+Buckie,Kanter,700-47-8370,Male,Sector 24,89,2018-03-09,Programmer I,ALIVE,NA,FALSE,Other,NA,A25,FALSE,Ouyuki
+Mathian,Maryott,533-82-3971,Male,Sector 24,34,2018-03-09,Community Outreach Specialist,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,A34,FALSE,Ouyuki
+Irv,Bimrose,464-67-0821,Male,Sector 24,30,2018-03-09,Nuclear Power Engineer,DECEASED,2018-03-11,FALSE,NA,VEG,B33,FALSE,Pan
+Trudey,Enderwick,395-15-7177,Female,Sector 24,7,2018-03-09,NA,ALIVE,NA,TRUE,Jewish,NA,C2,TRUE,Ouyuki
+Minda,Uc,636-95-0768,Female,Sector 24,18,2018-03-09,NA,DECEASED,2018-03-11,FALSE,Other,NA,A4,TRUE,Ouyuki
+Olwen,Jeffryes,759-96-0046,Female,Sector 24,54,2018-03-09,Legal Assistant,ALIVE,NA,FALSE,NA,VEG,A49,FALSE,Sanders
+Ross,Nickols,168-05-9051,Male,Sector 24,74,2018-03-09,Help Desk Operator,DECEASED,2018-03-09,FALSE,NA,CHCKN,A2,FALSE,Lee
+Levin,Farmiloe,740-28-5759,Male,Sector 24,20,2018-03-09,Human Resources Manager,ALIVE,NA,FALSE,Muslim,VEG,A2,FALSE,Pan
+Justine,Marquez,239-50-7965,Female,Sector 24,61,2018-03-09,Information Systems Manager,ALIVE,NA,FALSE,Catholic,VEG,A6,FALSE,Sanders
+Sherwin,Gwynne,555-20-5888,Male,Sector 24,51,2018-03-09,Research Associate,ALIVE,NA,FALSE,Catholic,VEG,D8,FALSE,Smith
+Hillary,Bradshaw,197-77-3509,Male,Sector 24,94,2018-03-09,Environmental Specialist,DECEASED,2018-03-10,FALSE,NA,NA,A10,FALSE,Pan
+Billi,Pyecroft,122-78-9456,Female,Sector 24,34,2018-03-09,Desktop Support Technician,DECEASED,2018-03-09,FALSE,Protestant,VEG,D25,FALSE,Pan
+Melvin,Kerner,599-21-3692,Male,Sector 24,43,2018-03-09,Editor,ALIVE,NA,FALSE,Protestant,VEG,D18,FALSE,White
+Henriette,Nudd,569-76-7788,Female,Sector 24,92,2018-03-09,Professor,ALIVE,NA,FALSE,Other,VEG,A32,FALSE,Pan
+Lyndsey,Davidwitz,214-74-7770,Female,Sector 24,48,2018-03-09,Software Consultant,ALIVE,NA,FALSE,Protestant,NA,B47,FALSE,Ouyuki
+Shea,Trevaskis,825-91-6828,Male,Sector 24,16,2018-03-09,NA,ALIVE,NA,FALSE,Other,VEG,B7,TRUE,Pan
+Jim,Gobbett,198-09-0351,Male,Sector 24,74,2018-03-09,Dental Hygienist,DECEASED,2018-03-11,FALSE,NA,VEG,B25,FALSE,Smith
+Jorey,Webber,503-61-9146,Female,Sector 24,79,2018-03-09,VP Sales,ALIVE,NA,FALSE,Muslim,NA,C35,FALSE,White
+Alfred,Larrie,774-81-5946,Male,Sector 24,91,2018-03-09,Graphic Designer,DECEASED,2018-03-09,FALSE,Muslim,NA,D6,FALSE,Sanders
+Cassie,Coyish,462-86-9636,Male,Sector 24,30,2018-03-09,Mechanical Systems Engineer,ALIVE,NA,FALSE,NA,CHCKN,D37,FALSE,Lee
+Patrice,Rodgman,412-20-9472,Female,Sector 24,90,2018-03-09,Editor,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,A35,FALSE,Smith
+Merrile,Greensted,204-28-9569,Female,Sector 24,26,2018-03-09,Marketing Assistant,DECEASED,2018-03-11,FALSE,Jewish,VEG,A49,FALSE,Pan
+Jedidiah,Woodroof,465-27-9740,Male,Sector 24,65,2018-03-09,Geologist III,DECEASED,2018-03-09,FALSE,Other,CHCKN,A32,FALSE,Lee
+Susan,Nelthrop,157-70-5637,Female,Sector 24,91,2018-03-09,Executive Secretary,DECEASED,2018-03-12,FALSE,Other,NA,D30,FALSE,White
+Sylvan,Jannequin,782-36-4725,Male,Sector 24,86,2018-03-09,Health Coach II,ALIVE,NA,FALSE,Jewish,VEG,C49,FALSE,Smith
+Skippy,Charkham,596-56-7224,Male,Sector 24,20,2018-03-09,Marketing Manager,ALIVE,NA,FALSE,NA,CHCKN,A1,FALSE,Ouyuki
+Julia,Cuddehay,681-88-5587,Female,Sector 24,79,2018-03-09,Analyst Programmer,ALIVE,NA,FALSE,Catholic,CHCKN,C12,FALSE,Ouyuki
+Mildrid,Esberger,595-23-7268,Female,Sector 24,10,2018-03-09,NA,DECEASED,2018-03-11,TRUE,Protestant,CHCKN,D38,TRUE,Sanders
+Helen-elizabeth,McRamsey,280-03-3907,Female,Sector 24,51,2018-03-10,Senior Quality Engineer,DECEASED,2018-03-10,FALSE,NA,NA,B46,FALSE,Pan
+Lyle,Pogson,365-18-7069,Male,Sector 24,18,2018-03-10,NA,ALIVE,NA,TRUE,NA,CHCKN,B2,TRUE,Sanders
+Spike,Philpott,285-88-5515,Male,Sector 24,91,2018-03-12,Programmer II,DECEASED,2018-03-13,FALSE,Muslim,CHCKN,D7,FALSE,Sanders
+Gardy,Benion,532-42-8772,Male,Sector 25,96,2018-03-06,GIS Technical Architect,ALIVE,NA,FALSE,Other,NA,B50,FALSE,Pan
+Ronny,Okeshott,548-17-8427,Male,Sector 25,80,2018-03-06,Director of Sales,DECEASED,2018-03-08,FALSE,Other,NA,D21,FALSE,Sanders
+Mariam,Pacher,694-29-7702,Female,Sector 25,6,2018-03-07,NA,ALIVE,NA,FALSE,Catholic,VEG,B19,TRUE,White
+Rhodia,Crocetto,489-21-7035,Female,Sector 25,52,2018-03-07,Research Assistant III,ALIVE,NA,FALSE,Muslim,VEG,C28,FALSE,Smith
+Danni,Burbage,135-55-5311,Female,Sector 25,52,2018-03-07,Director of Sales,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,B30,FALSE,Pan
+Laurence,O'Dee,193-51-8903,Male,Sector 25,14,2018-03-07,NA,DECEASED,2018-03-07,TRUE,Jewish,VEG,B36,TRUE,Pan
+Merrill,Hayle,302-52-5773,Male,Sector 25,27,2018-03-07,Office Assistant III,DECEASED,2018-03-10,FALSE,Catholic,NA,A21,FALSE,Sanders
+Dannel,Yeardley,129-22-5764,Male,Sector 25,26,2018-03-07,VP Sales,ALIVE,NA,FALSE,Muslim,NA,B3,FALSE,Lee
+Paolo,Walduck,506-28-8616,Male,Sector 25,15,2018-03-07,NA,DECEASED,2018-03-08,FALSE,Protestant,CHCKN,C25,TRUE,White
+Alasdair,Kingman,600-80-3253,Male,Sector 25,48,2018-03-08,Environmental Tech,ALIVE,NA,FALSE,NA,NA,D28,FALSE,Sanders
+Catherine,Edington,601-87-8644,Female,Sector 25,28,2018-03-08,Tax Accountant,ALIVE,NA,FALSE,Other,NA,A7,FALSE,Pan
+Tab,Indge,724-55-2256,Male,Sector 25,2,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Other,CHCKN,C14,TRUE,Smith
+Yankee,Crunkhorn,607-19-9878,Male,Sector 25,40,2018-03-08,Internal Auditor,DECEASED,2018-03-08,FALSE,NA,CHCKN,B41,FALSE,Pan
+Thaddus,Tubridy,131-29-1707,Male,Sector 25,79,2018-03-08,Professor,ALIVE,NA,FALSE,Jewish,VEG,A14,FALSE,White
+Cara,Dryden,337-39-9491,Female,Sector 25,30,2018-03-08,Professor,DECEASED,2018-03-10,FALSE,Other,CHCKN,B1,FALSE,Pan
+Justis,Perris,324-40-8945,Male,Sector 25,2,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Other,CHCKN,B12,FALSE,Pan
+Carey,Hawksley,236-41-9787,Male,Sector 25,89,2018-03-08,Information Systems Manager,ALIVE,NA,FALSE,Muslim,NA,C49,FALSE,Pan
+Rooney,Tynan,141-52-6057,Male,Sector 25,21,2018-03-08,Marketing Manager,DECEASED,2018-03-09,FALSE,Other,VEG,A12,FALSE,Ouyuki
+Amandie,Zorzenoni,730-79-4533,Female,Sector 25,86,2018-03-08,Quality Engineer,ALIVE,NA,FALSE,NA,VEG,B21,FALSE,Pan
+Jessalyn,Westfalen,134-11-5426,Female,Sector 25,58,2018-03-08,Human Resources Assistant IV,DECEASED,2018-03-08,FALSE,Other,CHCKN,A6,FALSE,Lee
+Babs,Dumphries,297-05-1863,Female,Sector 25,27,2018-03-08,Desktop Support Technician,ALIVE,NA,FALSE,Protestant,CHCKN,C43,FALSE,Smith
+Jessie,Crunden,859-98-4091,Female,Sector 25,30,2018-03-08,General Manager,DECEASED,2018-03-09,FALSE,Protestant,NA,C30,FALSE,Sanders
+Adlai,Morcombe,870-70-0664,Male,Sector 25,93,2018-03-08,Sales Associate,ALIVE,NA,FALSE,Muslim,NA,A18,FALSE,Pan
+Phillipe,Clemitt,559-55-4391,Male,Sector 25,78,2018-03-08,Staff Scientist,ALIVE,NA,FALSE,Muslim,VEG,A29,FALSE,Pan
+Bayard,Sparkwell,225-80-0721,Male,Sector 25,87,2018-03-08,Account Coordinator,ALIVE,NA,FALSE,Catholic,CHCKN,A8,FALSE,Smith
+Wakefield,Rothery,699-29-4407,Male,Sector 25,22,2018-03-08,Engineer II,ALIVE,NA,FALSE,Protestant,VEG,A3,FALSE,Smith
+Correna,Van Castele,209-79-7907,Female,Sector 25,96,2018-03-08,Assistant Professor,ALIVE,NA,FALSE,Muslim,CHCKN,A4,FALSE,Sanders
+Jonell,Clapshaw,669-62-7248,Female,Sector 25,85,2018-03-09,Software Test Engineer II,ALIVE,NA,FALSE,Jewish,VEG,A5,FALSE,Lee
+Stan,Gaddie,311-51-5362,Male,Sector 25,73,2018-03-09,Human Resources Manager,DECEASED,2018-03-09,FALSE,Other,CHCKN,D48,FALSE,Pan
+Marvin,Puddan,381-82-9829,Male,Sector 25,29,2018-03-09,Community Outreach Specialist,DECEASED,2018-03-10,FALSE,Other,VEG,C30,FALSE,Sanders
+Gavra,Wallicker,661-96-7830,Female,Sector 25,95,2018-03-09,Software Test Engineer III,DECEASED,2018-03-09,FALSE,Catholic,CHCKN,C44,FALSE,White
+Clayborn,Bodicam,496-71-9079,Male,Sector 25,84,2018-03-09,Accounting Assistant II,DECEASED,2018-03-09,FALSE,Jewish,NA,A20,FALSE,Lee
+Orrin,Tuffey,469-41-7332,Male,Sector 25,88,2018-03-09,Account Representative I,ALIVE,NA,FALSE,NA,VEG,D3,FALSE,Smith
+Myrilla,Ramme,470-91-5391,Female,Sector 25,80,2018-03-09,Staff Accountant I,ALIVE,NA,FALSE,Other,VEG,C19,FALSE,Smith
+Merci,Glasbey,208-22-5747,Female,Sector 25,74,2018-03-09,Statistician I,DECEASED,2018-03-12,FALSE,Protestant,CHCKN,B48,FALSE,Ouyuki
+Jaine,Allbrook,292-56-9095,Female,Sector 25,24,2018-03-09,Director of Sales,ALIVE,NA,FALSE,Protestant,VEG,B25,FALSE,White
+Cissiee,Pennaman,388-80-1723,Female,Sector 25,53,2018-03-09,Structural Engineer,DECEASED,2018-03-09,FALSE,Protestant,NA,B1,FALSE,Ouyuki
+Diannne,Basten,718-45-2591,Female,Sector 25,23,2018-03-09,Senior Developer,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,C33,FALSE,Lee
+Janel,Emanuelli,648-97-3686,Female,Sector 25,17,2018-03-09,NA,DECEASED,2018-03-10,FALSE,NA,VEG,B43,TRUE,Pan
+Luis,Jerrom,258-18-0222,Male,Sector 25,26,2018-03-09,Web Designer II,ALIVE,NA,FALSE,Jewish,VEG,C45,FALSE,Pan
+Arielle,Lamond,170-23-7630,Female,Sector 25,47,2018-03-09,Quality Engineer,ALIVE,NA,FALSE,Jewish,VEG,D43,FALSE,Lee
+Chrotoem,Dealy,561-51-2379,Male,Sector 25,72,2018-03-09,Quality Engineer,DECEASED,2018-03-10,FALSE,Other,CHCKN,A46,FALSE,Smith
+Joellen,Mandy,382-15-3743,Female,Sector 25,62,2018-03-09,Marketing Manager,DECEASED,2018-03-10,FALSE,Protestant,VEG,B44,FALSE,Ouyuki
+Thebault,Keaton,859-25-6219,Male,Sector 25,62,2018-03-09,Professor,ALIVE,NA,FALSE,Other,NA,C20,FALSE,Smith
+Theodora,Simyson,375-78-4520,Female,Sector 25,90,2018-03-09,Automation Specialist IV,DECEASED,2018-03-11,FALSE,Catholic,NA,A31,FALSE,Smith
+Jodi,Stampfer,307-48-2473,Female,Sector 25,33,2018-03-09,Engineer I,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,C31,FALSE,Ouyuki
+Fabien,Follin,580-36-3755,Male,Sector 25,45,2018-03-09,Editor,ALIVE,NA,FALSE,NA,VEG,A7,FALSE,Smith
+Zachery,Busswell,211-89-1887,Male,Sector 25,26,2018-03-09,Assistant Media Planner,ALIVE,NA,FALSE,Muslim,VEG,C35,FALSE,Sanders
+Starla,Charrier,193-56-9402,Female,Sector 25,35,2018-03-09,Structural Engineer,DECEASED,2018-03-09,FALSE,Catholic,NA,B49,FALSE,White
+Kermie,Oubridge,271-44-5939,Male,Sector 25,45,2018-03-09,Speech Pathologist,DECEASED,2018-03-12,FALSE,Other,VEG,A26,FALSE,White
+Emmy,Carles,492-45-4087,Male,Sector 25,36,2018-03-09,Account Executive,DECEASED,2018-03-09,FALSE,Jewish,NA,D41,FALSE,White
+Jami,Pilling,343-58-1397,Female,Sector 25,41,2018-03-09,Associate Professor,ALIVE,NA,FALSE,Jewish,NA,B18,FALSE,Ouyuki
+Channa,Seymark,587-61-0176,Female,Sector 25,33,2018-03-09,Nurse,ALIVE,NA,FALSE,Muslim,NA,A1,FALSE,Smith
+Johan,Camillo,782-87-5194,Male,Sector 25,14,2018-03-09,NA,DECEASED,2018-03-12,TRUE,Jewish,VEG,B46,TRUE,Lee
+Chucho,Andreutti,389-81-2657,Male,Sector 25,22,2018-03-09,Occupational Therapist,DECEASED,2018-03-11,FALSE,Catholic,NA,B42,FALSE,Sanders
+Eva,Leander,759-41-8842,Female,Sector 25,4,2018-03-09,NA,ALIVE,NA,FALSE,Jewish,VEG,A25,FALSE,Pan
+Hulda,Durning,439-14-2475,Female,Sector 25,44,2018-03-10,VP Quality Control,DECEASED,2018-03-10,FALSE,Protestant,VEG,C41,FALSE,Smith
+Feodor,Cowey,667-66-2069,Male,Sector 25,54,2018-03-10,Quality Control Specialist,DECEASED,2018-03-10,FALSE,Other,CHCKN,A22,FALSE,Sanders
+Dasya,Fahrenbacher,580-75-9710,Female,Sector 25,46,2018-03-10,Research Nurse,ALIVE,NA,FALSE,Other,VEG,D25,FALSE,White
+Tracie,Oller,870-65-0594,Male,Sector 25,61,2018-03-10,Payment Adjustment Coordinator,DECEASED,2018-03-10,FALSE,Catholic,VEG,D46,FALSE,Ouyuki
+Winnie,Glen,621-19-2365,Female,Sector 25,29,2018-03-10,Senior Editor,ALIVE,NA,FALSE,Other,CHCKN,A49,FALSE,Smith
+Mahala,Sheed,869-31-7834,Female,Sector 25,62,2018-03-10,Project Manager,ALIVE,NA,FALSE,NA,CHCKN,A37,FALSE,Sanders
+Allistir,Beadham,444-77-3659,Male,Sector 25,75,2018-03-10,Nuclear Power Engineer,DECEASED,2018-03-10,FALSE,Protestant,NA,D22,FALSE,Lee
+Edyth,Robertot,703-12-3221,Female,Sector 25,28,2018-03-10,Help Desk Operator,ALIVE,NA,FALSE,Jewish,CHCKN,D22,FALSE,White
+Monique,Gorman,121-52-4275,Female,Sector 25,41,2018-03-10,Assistant Professor,ALIVE,NA,FALSE,Other,CHCKN,A33,FALSE,Ouyuki
+Roosevelt,Novak,176-89-0859,Male,Sector 25,37,2018-03-10,Editor,ALIVE,NA,FALSE,Muslim,NA,A35,FALSE,Lee
+Alva,Doick,255-74-6504,Male,Sector 25,25,2018-03-10,Account Executive,ALIVE,NA,FALSE,Jewish,CHCKN,D47,FALSE,Lee
+Rickard,Troker,561-20-4321,Male,Sector 25,23,2018-03-10,Safety Technician I,ALIVE,NA,FALSE,Catholic,CHCKN,B48,FALSE,Pan
+Pascale,Tondeur,702-16-0628,Male,Sector 25,82,2018-03-11,Senior Quality Engineer,ALIVE,NA,FALSE,NA,NA,B37,FALSE,Smith
+Merrel,Fullwood,361-22-9722,Male,Sector 25,94,2018-03-11,Tax Accountant,DECEASED,2018-03-11,FALSE,NA,NA,B5,FALSE,Pan
+Carol,Cribbott,117-49-4059,Female,Sector 25,37,2018-03-11,Budget/Accounting Analyst III,DECEASED,2018-03-11,FALSE,Jewish,NA,B1,FALSE,Smith
+Terza,Evennett,330-82-2736,Female,Sector 25,50,2018-03-11,Pharmacist,DECEASED,2018-03-13,FALSE,Jewish,NA,D31,FALSE,White
+Gabby,Woodhouse,198-47-0017,Male,Sector 25,18,2018-03-11,NA,DECEASED,2018-03-14,FALSE,Other,CHCKN,B24,TRUE,Pan
+Gabe,Iorio,400-85-4499,Male,Sector 25,21,2018-03-11,Analyst Programmer,DECEASED,2018-03-11,FALSE,Other,CHCKN,C2,FALSE,Ouyuki
+Reinaldos,Killiner,656-56-5688,Male,Sector 25,55,2018-03-11,VP Sales,ALIVE,NA,FALSE,Muslim,VEG,D49,FALSE,Lee
+Gayla,Baiden,762-94-3372,Female,Sector 25,17,2018-03-11,NA,ALIVE,NA,TRUE,Jewish,VEG,B12,TRUE,Ouyuki
+Ingemar,Gurnett,630-21-2303,Male,Sector 25,45,2018-03-12,Account Coordinator,ALIVE,NA,FALSE,Other,CHCKN,A12,FALSE,Ouyuki
+Tisha,Losty,546-67-1199,Female,Sector 25,52,2018-03-13,Dental Hygienist,ALIVE,NA,FALSE,Other,NA,D19,FALSE,Lee
+Augusto,Moodey,355-25-7759,Male,Sector 25,81,2018-03-13,Safety Technician III,ALIVE,NA,FALSE,Catholic,NA,A40,FALSE,Smith
+Glendon,Vescovo,850-32-8824,Male,Sector 25,70,2018-03-13,Computer Systems Analyst II,ALIVE,NA,FALSE,Other,NA,C35,FALSE,Smith
+Brod,Aarons,439-98-5691,Male,Sector 26,68,2018-03-06,Nurse Practicioner,DECEASED,2018-03-07,FALSE,Jewish,NA,D45,FALSE,Lee
+Clemente,Glyssanne,321-72-6653,Male,Sector 26,83,2018-03-06,Executive Secretary,ALIVE,NA,FALSE,Catholic,CHCKN,A25,FALSE,Ouyuki
+Gerome,Willbraham,875-92-0099,Male,Sector 26,8,2018-03-07,NA,ALIVE,NA,FALSE,Catholic,CHCKN,C33,TRUE,White
+Andonis,Geraldo,200-15-9566,Male,Sector 26,59,2018-03-07,Staff Scientist,DECEASED,2018-03-07,FALSE,NA,VEG,D28,FALSE,Ouyuki
+Eduard,Kulas,107-61-4369,Male,Sector 26,45,2018-03-07,Assistant Professor,ALIVE,NA,FALSE,Catholic,VEG,A34,FALSE,Sanders
+Ari,Dawidowitsch,523-60-0481,Male,Sector 26,95,2018-03-07,Staff Scientist,DECEASED,2018-03-08,FALSE,Muslim,NA,B48,FALSE,Smith
+Greta,Banham,874-49-3328,Female,Sector 26,55,2018-03-07,Analyst Programmer,ALIVE,NA,FALSE,Other,CHCKN,D46,FALSE,Sanders
+Sherri,Tynewell,821-95-0301,Female,Sector 26,85,2018-03-07,Pharmacist,ALIVE,NA,FALSE,Muslim,VEG,B41,FALSE,Lee
+Victoir,Arendsen,120-47-5093,Male,Sector 26,62,2018-03-07,Senior Editor,DECEASED,2018-03-10,FALSE,Protestant,VEG,B16,FALSE,White
+Liva,Skull,366-29-4580,Female,Sector 26,62,2018-03-08,Biostatistician III,DECEASED,2018-03-11,FALSE,Catholic,VEG,A43,FALSE,Pan
+Karena,Dowrey,422-56-2053,Female,Sector 26,67,2018-03-08,Staff Scientist,ALIVE,NA,FALSE,Muslim,CHCKN,C14,FALSE,Sanders
+Nealson,Blazeby,523-06-6660,Male,Sector 26,88,2018-03-08,Accountant IV,ALIVE,NA,FALSE,Jewish,NA,D20,FALSE,White
+Xaviera,Frampton,367-61-4041,Female,Sector 26,19,2018-03-08,Office Assistant I,DECEASED,2018-03-11,FALSE,Protestant,NA,A3,FALSE,White
+Marylin,Heinke,480-90-8226,Female,Sector 26,6,2018-03-08,NA,ALIVE,NA,FALSE,Protestant,VEG,C9,TRUE,Sanders
+Moises,Heskey,791-72-6881,Male,Sector 26,0,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Muslim,NA,A14,TRUE,Lee
+Sidnee,Ballaam,833-61-4218,Male,Sector 26,35,2018-03-08,General Manager,ALIVE,NA,FALSE,Catholic,NA,D12,FALSE,Sanders
+Trixy,Woosnam,434-50-0954,Female,Sector 26,13,2018-03-08,NA,DECEASED,2018-03-08,TRUE,Other,NA,D50,TRUE,Pan
+Lila,Dunmuir,423-74-4075,Female,Sector 26,89,2018-03-08,VP Marketing,DECEASED,2018-03-09,FALSE,Catholic,VEG,B22,FALSE,Pan
+Mirilla,Mulryan,353-53-3510,Female,Sector 26,45,2018-03-08,Paralegal,DECEASED,2018-03-09,FALSE,Jewish,CHCKN,B50,FALSE,Smith
+Daria,Dallaway,899-99-8231,Female,Sector 26,86,2018-03-08,Structural Analysis Engineer,DECEASED,2018-03-08,FALSE,NA,NA,D49,FALSE,Sanders
+Britney,Olexa,506-22-5228,Female,Sector 26,49,2018-03-08,Office Assistant II,DECEASED,2018-03-11,FALSE,NA,VEG,A49,FALSE,Ouyuki
+Laryssa,Dallander,364-12-0323,Female,Sector 26,46,2018-03-08,Executive Secretary,DECEASED,2018-03-11,FALSE,Other,CHCKN,D43,FALSE,Ouyuki
+Mark,Pedroli,786-69-0645,Male,Sector 26,54,2018-03-09,Media Manager I,ALIVE,NA,FALSE,Jewish,NA,C44,FALSE,Lee
+Aguistin,Cromleholme,780-83-0997,Male,Sector 26,39,2018-03-09,Recruiter,DECEASED,2018-03-09,FALSE,Muslim,CHCKN,D7,FALSE,Ouyuki
+Clemente,Gorsse,748-89-0129,Male,Sector 26,33,2018-03-10,Research Assistant II,ALIVE,NA,FALSE,Muslim,CHCKN,D42,FALSE,Sanders
+Ivor,Vernazza,679-98-9424,Male,Sector 26,66,2018-03-11,Paralegal,DECEASED,2018-03-13,FALSE,Jewish,NA,B39,FALSE,Smith
+Dania,Shearmur,402-85-8638,Female,Sector 26,1,2018-03-12,NA,DECEASED,2018-03-13,FALSE,Muslim,NA,A38,TRUE,Ouyuki
+Phebe,Camilleri,135-41-7476,Female,Sector 30,1,2018-03-07,NA,DECEASED,2018-03-08,TRUE,Other,CHCKN,D2,TRUE,Sanders
+Ursa,Cleaton,369-29-1546,Female,Sector 30,39,2018-03-07,Research Assistant I,ALIVE,NA,FALSE,Catholic,NA,D50,FALSE,Smith
+Madalyn,Sogg,316-62-9113,Female,Sector 30,52,2018-03-07,Accounting Assistant IV,ALIVE,NA,FALSE,Catholic,NA,D17,FALSE,White
+Mab,Bouzan,532-06-9791,Female,Sector 30,7,2018-03-08,NA,ALIVE,NA,TRUE,Catholic,NA,B42,TRUE,Ouyuki
+Sully,Battrum,473-05-9034,Male,Sector 30,86,2018-03-08,Media Manager IV,ALIVE,NA,FALSE,Jewish,CHCKN,A39,FALSE,Ouyuki
+Dinnie,Tibbits,228-60-1276,Female,Sector 30,30,2018-03-08,Recruiter,ALIVE,NA,FALSE,Jewish,VEG,C38,FALSE,Lee
+Ag,Nanetti,660-07-8843,Female,Sector 30,5,2018-03-08,NA,ALIVE,NA,TRUE,NA,CHCKN,B22,FALSE,Lee
+Aurora,Kirkpatrick,337-37-7737,Female,Sector 30,88,2018-03-08,Legal Assistant,ALIVE,NA,FALSE,Catholic,CHCKN,D38,FALSE,Ouyuki
+Faulkner,Dowman,157-08-4869,Male,Sector 30,57,2018-03-08,Human Resources Manager,ALIVE,NA,FALSE,Catholic,VEG,A45,FALSE,White
+Niki,Doull,695-58-3485,Female,Sector 30,77,2018-03-08,General Manager,DECEASED,2018-03-08,FALSE,NA,VEG,C28,FALSE,Pan
+Moe,Gebby,835-27-5287,Male,Sector 30,50,2018-03-08,Geologist III,ALIVE,NA,FALSE,Catholic,NA,A40,FALSE,White
+Yehudit,Berceros,531-55-4445,Male,Sector 30,93,2018-03-08,Assistant Manager,ALIVE,NA,FALSE,Other,CHCKN,B14,FALSE,Smith
+Gasper,Braunter,588-56-2445,Male,Sector 30,2,2018-03-08,NA,DECEASED,2018-03-11,TRUE,Protestant,NA,B43,TRUE,Ouyuki
+Rozelle,Le feaver,876-52-2973,Female,Sector 30,23,2018-03-08,Account Executive,ALIVE,NA,FALSE,NA,CHCKN,C12,FALSE,Smith
+Phineas,Brandom,768-14-3805,Male,Sector 30,85,2018-03-08,Food Chemist,DECEASED,2018-03-10,FALSE,NA,VEG,A38,FALSE,Pan
+Frannie,L' Anglois,245-72-3210,Male,Sector 30,66,2018-03-08,Editor,DECEASED,2018-03-08,FALSE,Protestant,CHCKN,B25,FALSE,Smith
+Yvette,Sertin,155-08-6770,Female,Sector 30,55,2018-03-08,Technical Writer,DECEASED,2018-03-11,FALSE,Jewish,VEG,B24,FALSE,Lee
+Gusty,Ruseworth,517-24-8874,Female,Sector 30,25,2018-03-08,Data Coordiator,ALIVE,NA,FALSE,Protestant,CHCKN,D48,FALSE,White
+Adham,Ellesworthe,812-51-4400,Male,Sector 30,31,2018-03-09,Associate Professor,ALIVE,NA,FALSE,NA,NA,B46,FALSE,White
+Mayer,Yeld,656-84-2056,Male,Sector 30,47,2018-03-09,Assistant Media Planner,DECEASED,2018-03-10,FALSE,Other,NA,D27,FALSE,Ouyuki
+Annamarie,Cosgry,769-73-2065,Female,Sector 30,95,2018-03-09,Sales Representative,ALIVE,NA,FALSE,Other,CHCKN,D35,FALSE,White
+Vincenty,Kidman,700-46-1243,Male,Sector 30,64,2018-03-09,Systems Administrator III,ALIVE,NA,FALSE,NA,CHCKN,D18,FALSE,Smith
+Cece,Dearlove,295-74-8787,Male,Sector 30,15,2018-03-09,NA,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,A28,FALSE,Pan
+Lezlie,Elt,676-65-2451,Female,Sector 30,81,2018-03-09,Quality Engineer,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,B38,FALSE,Lee
+Gilly,Shynn,177-60-5940,Female,Sector 30,35,2018-03-10,Research Associate,ALIVE,NA,FALSE,Catholic,CHCKN,B21,FALSE,Smith
+Morgana,MacKay,898-17-0123,Female,Sector 30,49,2018-03-10,Financial Advisor,DECEASED,2018-03-12,FALSE,Other,NA,A41,FALSE,Smith
+Beale,Patron,629-09-4556,Male,Sector 30,8,2018-03-10,NA,ALIVE,NA,TRUE,Other,VEG,A18,TRUE,Sanders
+Adelina,McGooch,413-04-7168,Female,Sector 30,17,2018-03-10,NA,ALIVE,NA,FALSE,Muslim,NA,B28,TRUE,Lee
+Wilmer,Ten Broek,402-78-4460,Male,Sector 30,12,2018-03-10,NA,ALIVE,NA,TRUE,Jewish,NA,B43,FALSE,Smith
+Zenia,Artis,438-52-3736,Female,Sector 30,78,2018-03-10,Marketing Manager,DECEASED,2018-03-12,FALSE,Jewish,CHCKN,C7,FALSE,Lee
+Manuel,Elliston,578-21-2132,Male,Sector 30,42,2018-03-10,Graphic Designer,DECEASED,2018-03-13,FALSE,Other,CHCKN,D39,FALSE,White
+Skippie,Colgrave,592-53-2840,Male,Sector 30,20,2018-03-10,Developer II,DECEASED,2018-03-11,FALSE,Jewish,NA,C6,FALSE,Smith
+Wynnie,Lambarton,427-63-8003,Female,Sector 30,59,2018-03-10,Nuclear Power Engineer,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,B20,FALSE,Sanders
+Silvio,Blackall,528-27-3903,Male,Sector 30,91,2018-03-10,Teacher,ALIVE,NA,FALSE,Muslim,CHCKN,A26,FALSE,Lee
+Jessa,Simenon,890-89-1401,Female,Sector 30,79,2018-03-10,Sales Associate,ALIVE,NA,FALSE,Jewish,CHCKN,A14,FALSE,Lee
+Blair,Biasioli,855-17-8948,Male,Sector 30,12,2018-03-10,NA,ALIVE,NA,TRUE,Jewish,CHCKN,C6,TRUE,Sanders
+Graig,Poag,555-30-1629,Male,Sector 30,34,2018-03-10,Chemical Engineer,ALIVE,NA,FALSE,Protestant,NA,B43,FALSE,Lee
+Serge,Meriel,692-89-8380,Male,Sector 30,16,2018-03-10,NA,DECEASED,2018-03-10,FALSE,Jewish,VEG,B28,FALSE,White
+Yolande,Caccavari,194-34-2960,Female,Sector 30,38,2018-03-10,Software Engineer II,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,A39,FALSE,Pan
+Arv,Yarr,743-47-1414,Male,Sector 30,76,2018-03-12,Account Executive,ALIVE,NA,FALSE,Muslim,VEG,B40,FALSE,Lee
+Lexie,Szymanowski,197-57-5337,Female,Sector 31,64,2018-03-07,GIS Technical Architect,DECEASED,2018-03-07,FALSE,Jewish,VEG,A18,FALSE,Sanders
+Sallyann,Chopping,460-54-3469,Female,Sector 31,21,2018-03-07,Web Developer II,DECEASED,2018-03-07,FALSE,Protestant,VEG,B4,FALSE,White
+Jerrylee,Braxay,466-68-5372,Female,Sector 31,68,2018-03-07,GIS Technical Architect,DECEASED,2018-03-08,FALSE,Other,VEG,C20,FALSE,Sanders
+Kaylee,Chinnock,185-59-8597,Female,Sector 31,62,2018-03-08,Junior Executive,ALIVE,NA,FALSE,Jewish,NA,D35,FALSE,Smith
+Chloe,Whitesel,816-65-5936,Female,Sector 31,44,2018-03-08,Biostatistician II,DECEASED,2018-03-10,FALSE,Muslim,CHCKN,B28,FALSE,Pan
+Lacey,Le Galle,221-95-4274,Female,Sector 31,17,2018-03-08,NA,ALIVE,NA,FALSE,Catholic,CHCKN,B48,FALSE,Sanders
+Sylas,Baker,447-15-9717,Male,Sector 31,48,2018-03-08,Graphic Designer,DECEASED,2018-03-11,FALSE,Muslim,VEG,D46,FALSE,Sanders
+Marlo,Romagnosi,242-97-9849,Female,Sector 31,55,2018-03-08,Internal Auditor,DECEASED,2018-03-10,FALSE,Muslim,NA,B21,FALSE,Smith
+Frannie,Le febre,816-52-0065,Male,Sector 31,24,2018-03-08,Office Assistant I,DECEASED,2018-03-08,FALSE,Protestant,VEG,C16,FALSE,Sanders
+Hinda,Faulconer,341-76-3082,Female,Sector 31,45,2018-03-08,VP Accounting,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,C24,FALSE,Lee
+Audrey,Scudamore,253-47-6744,Female,Sector 31,26,2018-03-08,Geological Engineer,ALIVE,NA,FALSE,Muslim,CHCKN,A25,FALSE,Sanders
+Sid,Bindley,854-77-7399,Male,Sector 31,4,2018-03-08,NA,DECEASED,2018-03-10,TRUE,Jewish,CHCKN,C42,TRUE,Lee
+Monroe,Lamacraft,760-22-5685,Male,Sector 31,58,2018-03-08,Executive Secretary,ALIVE,NA,FALSE,Muslim,VEG,B5,FALSE,White
+Ced,Dowbekin,236-84-1196,Male,Sector 31,7,2018-03-08,NA,ALIVE,NA,TRUE,Muslim,CHCKN,D48,TRUE,Smith
+Francisca,Bontine,670-50-4284,Female,Sector 31,79,2018-03-08,Senior Sales Associate,ALIVE,NA,FALSE,Catholic,VEG,C7,FALSE,Sanders
+Harwilll,Lammert,673-32-7754,Male,Sector 31,3,2018-03-08,NA,DECEASED,2018-03-09,FALSE,Other,CHCKN,D42,TRUE,Smith
+Bernete,Dornin,478-34-8337,Female,Sector 31,87,2018-03-08,Pharmacist,ALIVE,NA,FALSE,Muslim,NA,A34,FALSE,Pan
+Thia,Czyz,429-81-2997,Female,Sector 31,33,2018-03-08,VP Marketing,DECEASED,2018-03-11,FALSE,Muslim,VEG,A41,FALSE,Pan
+Hamlen,Whitely,872-68-0422,Male,Sector 31,3,2018-03-09,NA,DECEASED,2018-03-11,FALSE,Jewish,CHCKN,B30,TRUE,Lee
+Poppy,Seger,477-02-4340,Female,Sector 31,52,2018-03-09,Administrative Officer,ALIVE,NA,FALSE,Jewish,CHCKN,A16,FALSE,Ouyuki
+Sheri,Poulson,808-25-1608,Female,Sector 31,64,2018-03-09,Environmental Tech,DECEASED,2018-03-12,FALSE,Protestant,VEG,A27,FALSE,Sanders
+Guilbert,Ivchenko,659-14-0095,Male,Sector 31,95,2018-03-09,Paralegal,DECEASED,2018-03-11,FALSE,NA,VEG,C21,FALSE,Sanders
+Averil,Gever,676-02-1899,Female,Sector 31,26,2018-03-09,Health Coach I,ALIVE,NA,FALSE,Other,VEG,B12,FALSE,Lee
+Candace,Pennone,500-11-3128,Female,Sector 31,50,2018-03-09,VP Sales,ALIVE,NA,FALSE,Protestant,VEG,C33,FALSE,Sanders
+Derrek,Le Moucheux,814-16-2827,Male,Sector 31,51,2018-03-09,Analyst Programmer,DECEASED,2018-03-10,FALSE,Muslim,VEG,C30,FALSE,Ouyuki
+Giacinta,Linden,599-41-0633,Female,Sector 31,38,2018-03-09,Account Representative IV,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,D10,FALSE,Smith
+Maurice,Burnep,456-99-5531,Male,Sector 31,22,2018-03-09,Financial Analyst,ALIVE,NA,FALSE,Jewish,CHCKN,D39,FALSE,Lee
+Hal,Durrant,253-06-5910,Male,Sector 31,62,2018-03-10,Internal Auditor,DECEASED,2018-03-12,FALSE,NA,CHCKN,C31,FALSE,White
+Cindelyn,Dries,511-84-8178,Female,Sector 31,86,2018-03-10,Programmer Analyst I,DECEASED,2018-03-13,FALSE,Jewish,NA,A34,FALSE,Ouyuki
+Cort,Markwick,109-46-0669,Male,Sector 31,84,2018-03-10,Nuclear Power Engineer,DECEASED,2018-03-12,FALSE,Muslim,CHCKN,B19,FALSE,Pan
+Langsdon,Pedlingham,396-43-8489,Male,Sector 31,53,2018-03-11,Senior Financial Analyst,ALIVE,NA,FALSE,Catholic,NA,B36,FALSE,Pan
+Babara,Eilhart,319-44-8277,Female,Sector 31,56,2018-03-11,Graphic Designer,DECEASED,2018-03-13,FALSE,Muslim,VEG,A35,FALSE,Smith
+Emmi,Greguoli,413-43-1551,Female,Sector 31,9,2018-03-11,NA,ALIVE,NA,FALSE,Other,VEG,A32,TRUE,Pan
+Jerrome,Wane,427-84-7404,Male,Sector 31,86,2018-03-11,VP Product Management,ALIVE,NA,FALSE,Jewish,CHCKN,A38,FALSE,Smith
+Myles,Ranscombe,591-83-6950,Male,Sector 31,80,2018-03-12,Librarian,DECEASED,2018-03-14,FALSE,Other,NA,A33,FALSE,Sanders
+Shalna,Small,559-14-2299,Female,Sector 6,73,2018-03-11,Electrical Engineer,ALIVE,NA,FALSE,Jewish,CHCKN,B15,FALSE,Smith
+Guy,Cordle,162-29-7082,Male,Sector 6,95,2018-03-11,Staff Scientist,DECEASED,2018-03-12,FALSE,Jewish,VEG,A27,FALSE,Sanders
+Clayson,Constant,616-26-6149,Male,Sector 6,52,2018-03-11,Internal Auditor,DECEASED,2018-03-11,FALSE,Jewish,NA,C34,FALSE,Smith
+Elke,Toffanelli,633-65-1367,Female,Sector 6,73,2018-03-11,Legal Assistant,ALIVE,NA,FALSE,Catholic,VEG,B27,FALSE,Ouyuki
+Langston,Dowley,674-83-2902,Male,Sector 6,52,2018-03-11,Marketing Assistant,DECEASED,2018-03-13,FALSE,Other,VEG,B29,FALSE,White
+Ingaberg,Bussens,409-25-8779,Female,Sector 6,36,2018-03-11,Editor,DECEASED,2018-03-14,FALSE,Protestant,VEG,C29,FALSE,Sanders
+Alwin,Redsull,604-75-2561,Male,Sector 6,4,2018-03-11,NA,ALIVE,NA,FALSE,NA,NA,B4,FALSE,White
+Lynnette,Langhor,408-51-6743,Female,Sector 6,1,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Other,NA,B47,TRUE,Pan
+Jaquenette,Chiles,440-84-2879,Female,Sector 6,18,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,C30,FALSE,Smith
+Sal,O'Rafferty,312-97-2559,Male,Sector 6,61,2018-03-11,Quality Engineer,ALIVE,NA,FALSE,Catholic,NA,D26,FALSE,Ouyuki
+Rad,Rudeforth,801-41-0553,Male,Sector 6,56,2018-03-11,Executive Secretary,ALIVE,NA,FALSE,Other,VEG,B14,FALSE,Smith
+Brooks,Lindsay,388-15-1050,Male,Sector 6,35,2018-03-11,Senior Financial Analyst,DECEASED,2018-03-13,FALSE,Jewish,CHCKN,A4,FALSE,Pan
+Candace,Balsdone,438-73-5604,Female,Sector 6,75,2018-03-12,Paralegal,ALIVE,NA,FALSE,Catholic,VEG,D11,FALSE,Smith
+Kent,Caskie,721-11-6951,Male,Sector 6,22,2018-03-12,Associate Professor,DECEASED,2018-03-12,FALSE,Catholic,VEG,C20,FALSE,Lee
+Lindsay,Kilgrove,386-28-0418,Female,Sector 6,10,2018-03-12,NA,ALIVE,NA,TRUE,Catholic,VEG,B27,TRUE,Sanders
+Shawnee,Bendig,425-44-5200,Female,Sector 6,66,2018-03-12,Assistant Media Planner,ALIVE,NA,FALSE,Catholic,VEG,B26,FALSE,Sanders
+Vinson,Hundy,847-05-3328,Male,Sector 6,85,2018-03-12,Information Systems Manager,ALIVE,NA,FALSE,NA,NA,B1,FALSE,Ouyuki
+Felix,Musprat,746-65-5493,Male,Sector 6,49,2018-03-12,Recruiter,ALIVE,NA,FALSE,Protestant,VEG,C20,FALSE,Ouyuki
+Amandy,Arrigo,753-18-0351,Female,Sector 6,32,2018-03-12,Professor,ALIVE,NA,FALSE,Catholic,NA,C31,FALSE,Lee
+Duffy,Wrintmore,850-96-9782,Male,Sector 6,55,2018-03-12,Data Coordiator,ALIVE,NA,FALSE,Muslim,CHCKN,B6,FALSE,Smith
+Anastasia,Roderigo,261-27-2293,Female,Sector 6,87,2018-03-12,Budget/Accounting Analyst IV,ALIVE,NA,FALSE,NA,CHCKN,B50,FALSE,Smith
+Holt,Akram,707-19-8865,Male,Sector 6,0,2018-03-12,NA,DECEASED,2018-03-12,TRUE,Protestant,VEG,B43,TRUE,Sanders
+Lamond,Hastilow,768-91-2050,Male,Sector 6,45,2018-03-12,Design Engineer,ALIVE,NA,FALSE,Muslim,VEG,A48,FALSE,Lee
+Pincus,Adacot,597-82-7548,Male,Sector 6,3,2018-03-13,NA,ALIVE,NA,TRUE,NA,VEG,C3,TRUE,Ouyuki
+Rivkah,Manz,848-06-4736,Female,Sector 6,36,2018-03-13,Speech Pathologist,DECEASED,2018-03-14,FALSE,Muslim,NA,C42,FALSE,Ouyuki
+Alvis,Dello,350-54-3626,Male,Sector 6,70,2018-03-13,Professor,DECEASED,2018-03-14,FALSE,Other,NA,D20,FALSE,Smith
+Juliana,McKinley,170-39-7368,Female,Sector 6,64,2018-03-13,Office Assistant II,ALIVE,NA,FALSE,NA,NA,D30,FALSE,Lee
+Mike,Wallbridge,812-24-3992,Male,Sector 6,73,2018-03-13,Administrative Officer,ALIVE,NA,FALSE,Other,VEG,B37,FALSE,Ouyuki
+Minetta,Rowntree,569-11-0165,Female,Sector 6,69,2018-03-13,Sales Associate,DECEASED,2018-03-13,FALSE,NA,NA,B43,FALSE,White
+Osmund,Ollenbuttel,175-57-2742,Male,Sector 6,33,2018-03-13,Design Engineer,DECEASED,2018-03-14,FALSE,Catholic,CHCKN,A47,FALSE,Lee
+Erminia,Kusick,634-80-4059,Female,Sector 6,93,2018-03-13,Help Desk Technician,ALIVE,NA,FALSE,Muslim,CHCKN,A12,FALSE,Ouyuki
+Sholom,Wellings,482-74-0873,Male,Sector 6,2,2018-03-13,NA,DECEASED,2018-03-16,FALSE,Protestant,NA,A2,TRUE,Lee
+Kim,Cordes,308-26-4587,Male,Sector 6,80,2018-03-13,Budget/Accounting Analyst III,DECEASED,2018-03-14,FALSE,Protestant,NA,D1,FALSE,Smith
+Elysee,Garard,142-11-2875,Female,Sector 6,54,2018-03-13,Editor,DECEASED,2018-03-16,FALSE,Jewish,NA,A12,FALSE,Ouyuki
+Bartolomeo,Brisley,492-26-0711,Male,Sector 6,42,2018-03-13,Senior Sales Associate,ALIVE,NA,FALSE,Catholic,VEG,C39,FALSE,Smith
+Roderich,Della Scala,161-21-1695,Male,Sector 6,18,2018-03-13,NA,DECEASED,2018-03-16,TRUE,Other,VEG,D22,TRUE,Smith
+Amil,Nickell,883-34-8691,Female,Sector 6,3,2018-03-13,NA,DECEASED,2018-03-15,TRUE,Other,NA,D17,TRUE,Lee
+Kele,Le Grys,698-43-9322,Male,Sector 6,53,2018-03-13,Environmental Tech,DECEASED,2018-03-14,FALSE,NA,CHCKN,B49,FALSE,Smith
+Thorvald,Jellis,105-79-0443,Male,Sector 6,64,2018-03-13,VP Product Management,ALIVE,NA,FALSE,Jewish,VEG,A34,FALSE,Ouyuki
+Kellyann,Brashier,726-69-3496,Female,Sector 6,18,2018-03-13,NA,DECEASED,2018-03-16,TRUE,Muslim,NA,A39,FALSE,Pan
+Eleonore,Sulter,372-94-6885,Female,Sector 6,9,2018-03-13,NA,ALIVE,NA,FALSE,Other,CHCKN,B29,TRUE,Smith
+Reiko,Godding,307-95-1868,Female,Sector 6,94,2018-03-13,Computer Systems Analyst IV,ALIVE,NA,FALSE,Other,VEG,C38,FALSE,White
+Alexandra,Crole,565-29-7695,Female,Sector 7,73,2018-03-08,Software Test Engineer IV,ALIVE,NA,FALSE,Catholic,NA,B16,FALSE,Lee
+Ajay,Leathlay,307-76-3357,Female,Sector 7,5,2018-03-09,NA,DECEASED,2018-03-10,TRUE,NA,NA,B40,FALSE,Pan
+Myra,Trenoweth,134-89-3921,Female,Sector 7,16,2018-03-09,NA,ALIVE,NA,TRUE,Other,NA,D35,TRUE,Pan
+Kristoffer,Oughtright,126-99-7879,Male,Sector 7,58,2018-03-09,Senior Financial Analyst,ALIVE,NA,FALSE,Other,CHCKN,C33,FALSE,Ouyuki
+Egbert,Mariner,513-09-5114,Male,Sector 7,61,2018-03-09,Assistant Manager,DECEASED,2018-03-11,FALSE,Protestant,NA,A31,FALSE,Pan
+Albie,Penwright,669-46-5401,Male,Sector 7,20,2018-03-09,VP Quality Control,ALIVE,NA,FALSE,Catholic,CHCKN,D37,FALSE,White
+Larine,Brotherick,377-17-2039,Female,Sector 7,43,2018-03-09,Account Executive,DECEASED,2018-03-09,FALSE,NA,VEG,A28,FALSE,Smith
+Connor,Badgers,427-96-3715,Male,Sector 7,77,2018-03-09,Account Executive,DECEASED,2018-03-09,FALSE,Muslim,CHCKN,A26,FALSE,Lee
+Goddard,Keetch,482-82-2431,Male,Sector 7,18,2018-03-09,NA,DECEASED,2018-03-12,FALSE,Jewish,VEG,D13,TRUE,Sanders
+Leeanne,Osgordby,106-70-1284,Female,Sector 7,51,2018-03-09,Software Consultant,ALIVE,NA,FALSE,NA,VEG,C27,FALSE,White
+Thedrick,Glendenning,303-37-3099,Male,Sector 7,45,2018-03-10,GIS Technical Architect,DECEASED,2018-03-11,FALSE,Catholic,NA,D24,FALSE,Pan
+Jayson,Mc Faul,765-61-1081,Male,Sector 7,84,2018-03-10,Assistant Professor,ALIVE,NA,FALSE,Jewish,CHCKN,B4,FALSE,Pan
+Carol-jean,Edlin,518-11-2623,Female,Sector 7,16,2018-03-10,NA,ALIVE,NA,FALSE,NA,VEG,C16,FALSE,Ouyuki
+Dorthy,MacConneely,108-05-8489,Female,Sector 7,16,2018-03-10,NA,DECEASED,2018-03-13,TRUE,Muslim,NA,A10,FALSE,Smith
+Mae,Keepence,651-57-1434,Female,Sector 7,70,2018-03-10,Physical Therapy Assistant,ALIVE,NA,FALSE,Jewish,VEG,D23,FALSE,White
+Pearl,Milvarnie,629-85-7454,Female,Sector 7,52,2018-03-10,Actuary,ALIVE,NA,FALSE,Muslim,NA,C33,FALSE,Ouyuki
+Bree,Shord,241-87-7381,Female,Sector 7,23,2018-03-10,Developer III,DECEASED,2018-03-12,FALSE,NA,NA,A26,FALSE,Lee
+Karyn,Ablett,409-97-8541,Female,Sector 7,90,2018-03-10,VP Sales,DECEASED,2018-03-11,FALSE,Other,VEG,B37,FALSE,Pan
+Rachele,Swyn,737-95-4741,Female,Sector 7,79,2018-03-10,VP Marketing,ALIVE,NA,FALSE,Protestant,VEG,A48,FALSE,Lee
+Mommy,Aymer,625-27-9722,Female,Sector 7,54,2018-03-10,Senior Quality Engineer,DECEASED,2018-03-10,FALSE,Other,CHCKN,B14,FALSE,Lee
+Corny,Emons,679-17-0608,Male,Sector 7,70,2018-03-10,Food Chemist,DECEASED,2018-03-11,FALSE,Muslim,NA,C9,FALSE,Sanders
+Demetria,Harrie,671-58-4630,Female,Sector 7,40,2018-03-10,Legal Assistant,DECEASED,2018-03-13,FALSE,NA,VEG,D9,FALSE,Ouyuki
+Zollie,Dellenbach,219-92-0526,Male,Sector 7,20,2018-03-10,Accountant IV,ALIVE,NA,FALSE,Protestant,CHCKN,B13,FALSE,Pan
+Gherardo,Webley,747-65-9103,Male,Sector 7,56,2018-03-10,Staff Accountant II,DECEASED,2018-03-13,FALSE,Muslim,NA,B26,FALSE,Pan
+Sollie,Lyddyard,516-46-7724,Male,Sector 7,17,2018-03-10,NA,DECEASED,2018-03-11,FALSE,Other,CHCKN,A25,TRUE,Sanders
+Rois,Dorian,292-47-4231,Female,Sector 7,21,2018-03-10,Registered Nurse,ALIVE,NA,FALSE,Catholic,VEG,C33,FALSE,Ouyuki
+Jammal,Marking,675-81-4849,Male,Sector 7,45,2018-03-10,Recruiting Manager,ALIVE,NA,FALSE,Catholic,NA,A34,FALSE,Lee
+Kerianne,Gahagan,573-57-3248,Female,Sector 7,79,2018-03-10,Sales Associate,DECEASED,2018-03-11,FALSE,Catholic,CHCKN,D2,FALSE,Ouyuki
+Rowland,Assante,265-56-9906,Male,Sector 7,39,2018-03-10,VP Product Management,DECEASED,2018-03-10,FALSE,Jewish,VEG,C44,FALSE,White
+Jillane,Kencott,175-37-9160,Female,Sector 7,30,2018-03-10,Assistant Media Planner,ALIVE,NA,FALSE,NA,CHCKN,D12,FALSE,White
+Kameko,Redmille,183-89-5859,Female,Sector 7,6,2018-03-11,NA,ALIVE,NA,FALSE,Jewish,VEG,C28,FALSE,Sanders
+Shaine,McOrkil,595-94-9363,Female,Sector 7,26,2018-03-11,Payment Adjustment Coordinator,ALIVE,NA,FALSE,Other,CHCKN,D15,FALSE,Sanders
+Izabel,Bridal,753-54-5055,Female,Sector 7,38,2018-03-11,Recruiting Manager,ALIVE,NA,FALSE,Jewish,CHCKN,C15,FALSE,Ouyuki
+Tynan,Pealing,381-28-2679,Male,Sector 7,0,2018-03-11,NA,DECEASED,2018-03-11,TRUE,NA,VEG,B20,TRUE,Sanders
+Rowney,Springham,315-36-8322,Male,Sector 8,37,2018-03-08,Staff Accountant I,DECEASED,2018-03-09,FALSE,Catholic,CHCKN,B40,FALSE,Smith
+Elysha,Hirtz,560-18-3632,Female,Sector 8,6,2018-03-08,NA,DECEASED,2018-03-08,FALSE,Protestant,CHCKN,D13,TRUE,Lee
+Salmon,Chesshyre,754-48-5929,Male,Sector 8,48,2018-03-08,Programmer Analyst IV,ALIVE,NA,FALSE,NA,NA,A44,FALSE,Ouyuki
+Portie,Lescop,234-82-5471,Male,Sector 8,64,2018-03-09,Senior Developer,ALIVE,NA,FALSE,Catholic,VEG,C13,FALSE,Lee
+Gussie,Awcock,789-73-3398,Female,Sector 8,94,2018-03-09,Assistant Manager,DECEASED,2018-03-12,FALSE,Other,NA,D41,FALSE,Ouyuki
+Jarad,Hallas,802-89-4915,Male,Sector 8,78,2018-03-09,Statistician III,DECEASED,2018-03-09,FALSE,NA,VEG,C24,FALSE,Smith
+Marlyn,Senett,895-02-5834,Female,Sector 8,83,2018-03-09,Occupational Therapist,ALIVE,NA,FALSE,Catholic,CHCKN,B49,FALSE,Lee
+Goldi,Guage,317-45-1055,Female,Sector 8,33,2018-03-10,Staff Accountant III,DECEASED,2018-03-10,FALSE,NA,VEG,A19,FALSE,Pan
+Jen,Floweth,136-33-1291,Female,Sector 8,22,2018-03-10,Paralegal,DECEASED,2018-03-10,FALSE,Catholic,CHCKN,D46,FALSE,White
+Nicola,Strood,811-23-5927,Female,Sector 8,67,2018-03-10,Analog Circuit Design manager,DECEASED,2018-03-10,FALSE,Protestant,VEG,A34,FALSE,Smith
+Marlow,Davidavidovics,334-84-6989,Male,Sector 8,7,2018-03-10,NA,ALIVE,NA,FALSE,Catholic,NA,D27,TRUE,Lee
+Claire,Silbermann,753-30-3592,Female,Sector 8,66,2018-03-10,Administrative Officer,DECEASED,2018-03-10,FALSE,Other,CHCKN,B27,FALSE,Smith
+Louie,Bostock,741-61-8988,Male,Sector 8,7,2018-03-10,NA,DECEASED,2018-03-10,TRUE,Protestant,VEG,B11,TRUE,White
+Abigail,Kleinber,623-42-2555,Female,Sector 8,72,2018-03-10,Pharmacist,ALIVE,NA,FALSE,Protestant,CHCKN,D33,FALSE,Pan
+Jae,Baudrey,549-56-0695,Male,Sector 8,12,2018-03-10,NA,ALIVE,NA,TRUE,Muslim,NA,A3,FALSE,Sanders
+Chere,Coysh,708-09-0122,Female,Sector 8,28,2018-03-11,Software Consultant,DECEASED,2018-03-11,FALSE,NA,NA,C6,FALSE,Ouyuki
+Eduard,Cawsey,848-10-5008,Male,Sector 8,68,2018-03-11,Food Chemist,DECEASED,2018-03-11,FALSE,Other,NA,B41,FALSE,Smith
+Patrica,Currall,103-01-7463,Female,Sector 8,23,2018-03-11,Quality Control Specialist,DECEASED,2018-03-11,FALSE,Protestant,CHCKN,A44,FALSE,Sanders
+Pietra,Skeldinge,163-82-4341,Female,Sector 8,39,2018-03-11,Programmer II,ALIVE,NA,FALSE,Muslim,CHCKN,A34,FALSE,White
+Cathi,Paulisch,171-42-3614,Female,Sector 8,64,2018-03-11,Associate Professor,DECEASED,2018-03-11,FALSE,Other,NA,A50,FALSE,Sanders
+Harriot,McNab,178-14-8068,Female,Sector 8,36,2018-03-11,Analyst Programmer,DECEASED,2018-03-11,FALSE,Muslim,NA,C43,FALSE,Pan
+Fairlie,Corkhill,838-10-5794,Male,Sector 8,81,2018-03-11,Quality Engineer,ALIVE,NA,FALSE,Muslim,NA,B18,FALSE,Smith
+Berkley,McJarrow,146-55-0689,Male,Sector 8,81,2018-03-11,Editor,ALIVE,NA,FALSE,Protestant,NA,C34,FALSE,White
+Lowrance,Pagden,186-18-8336,Male,Sector 8,66,2018-03-11,Software Test Engineer I,DECEASED,2018-03-12,FALSE,Jewish,NA,A7,FALSE,Lee
+Maurine,Bolzmann,150-53-1677,Female,Sector 8,9,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Other,CHCKN,B5,FALSE,Lee
+Roderick,McGeachey,101-52-6253,Male,Sector 8,14,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Jewish,NA,C9,FALSE,Lee
+Flori,Lightwing,443-89-1524,Female,Sector 8,19,2018-03-11,Budget/Accounting Analyst II,DECEASED,2018-03-12,FALSE,Jewish,VEG,B13,FALSE,Sanders
+Abram,Tallman,116-17-5675,Male,Sector 8,3,2018-03-11,NA,DECEASED,2018-03-11,FALSE,NA,VEG,C46,FALSE,Lee
+Vinnie,Leaman,563-26-4709,Female,Sector 8,26,2018-03-11,Statistician II,ALIVE,NA,FALSE,Catholic,NA,C26,FALSE,Lee
+Gianina,Fadian,209-63-9560,Female,Sector 8,78,2018-03-11,Information Systems Manager,DECEASED,2018-03-11,FALSE,Protestant,NA,A35,FALSE,White
+Pembroke,Chaise,554-93-3162,Male,Sector 8,1,2018-03-11,NA,DECEASED,2018-03-11,TRUE,Muslim,NA,A32,TRUE,Pan
+Glennis,Thying,291-06-2523,Female,Sector 8,21,2018-03-11,Legal Assistant,DECEASED,2018-03-12,FALSE,Muslim,CHCKN,D48,FALSE,Lee
+Jolene,Cristofano,270-43-6945,Female,Sector 8,48,2018-03-11,Research Nurse,ALIVE,NA,FALSE,Protestant,CHCKN,D36,FALSE,Pan
+Thayne,Dederich,361-41-0378,Male,Sector 8,34,2018-03-11,Financial Analyst,ALIVE,NA,FALSE,Catholic,VEG,B19,FALSE,Lee
+Maisie,Alder,854-42-3401,Female,Sector 8,11,2018-03-11,NA,ALIVE,NA,FALSE,NA,VEG,A39,TRUE,Ouyuki
+Dyane,Craxford,874-83-3039,Female,Sector 8,29,2018-03-11,Marketing Manager,DECEASED,2018-03-11,FALSE,NA,VEG,B32,FALSE,Pan
+Blanca,Whitecross,296-51-4142,Female,Sector 8,37,2018-03-11,Statistician IV,DECEASED,2018-03-11,FALSE,NA,VEG,C35,FALSE,Lee
+Clarence,Dumphy,651-67-0854,Male,Sector 8,52,2018-03-11,Information Systems Manager,DECEASED,2018-03-12,FALSE,Other,VEG,C8,FALSE,Pan
+Ring,Lalevee,240-16-4671,Male,Sector 8,5,2018-03-11,NA,ALIVE,NA,TRUE,Catholic,NA,D29,TRUE,Smith
+Demetrius,Belliveau,386-35-1798,Male,Sector 8,89,2018-03-11,VP Product Management,DECEASED,2018-03-11,FALSE,Other,CHCKN,D8,FALSE,White
+Man,Healey,508-84-1072,Male,Sector 8,51,2018-03-11,Senior Developer,ALIVE,NA,FALSE,Catholic,CHCKN,C41,FALSE,Lee
+Jillene,Lofting,724-19-4462,Female,Sector 8,68,2018-03-11,Graphic Designer,ALIVE,NA,FALSE,Jewish,NA,B41,FALSE,Ouyuki
+Guenna,Ramshay,264-69-4390,Female,Sector 8,48,2018-03-11,Accounting Assistant II,ALIVE,NA,FALSE,Catholic,CHCKN,B9,FALSE,Sanders
+Kylie,Sturridge,116-04-9273,Female,Sector 8,53,2018-03-11,General Manager,DECEASED,2018-03-11,FALSE,Muslim,CHCKN,A17,FALSE,Smith
+Livvy,Howsan,457-20-0507,Female,Sector 8,14,2018-03-11,NA,DECEASED,2018-03-11,FALSE,Jewish,VEG,D2,TRUE,Lee
+Vikki,Holbury,711-84-3264,Female,Sector 8,75,2018-03-11,Chief Design Engineer,DECEASED,2018-03-11,FALSE,Other,NA,D34,FALSE,Pan
+Laural,Easthope,268-18-3221,Female,Sector 8,14,2018-03-12,NA,ALIVE,NA,FALSE,Protestant,VEG,D44,TRUE,Lee
+Reba,Halversen,322-94-6395,Female,Sector 8,64,2018-03-12,Civil Engineer,DECEASED,2018-03-14,FALSE,Muslim,VEG,A12,FALSE,Smith
+Matthieu,Fairbairn,406-93-4081,Male,Sector 8,57,2018-03-12,Software Consultant,ALIVE,NA,FALSE,Catholic,VEG,A31,FALSE,Smith
